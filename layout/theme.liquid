@@ -137,11 +137,6 @@
   <link rel="preload" href="{{ 'customer_area.js' | shopify_asset_url }}" as="script">
   {%- endif -%}
 
-  {% if settings.disqus_enabled %}
-    {% if template.name == "blog" or template.name == "article" or template.name == "index" %}
-      <link rel="preload" href="//{{ settings.disqus_shortname }}.disqus.com/count.js" as="script">
-    {% endif %}
-  {% endif %}
 
   <!-- CSS for Flex -->
   <link rel="stylesheet" href="{{ 'fancybox.css' | asset_url }}">
@@ -160,34 +155,28 @@
     {% render 'js-variables' %}
   </script>
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" defer></script>
-  <script src="{{ 'vendors.js' | asset_url }}" defer></script>
-  <script src="{{ 'utilities.js' | asset_url }}" defer></script>
-  <script src="{{ 'app.js' | asset_url }}" defer></script>
+  <script type="lazyload2" data-src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js" defer></script>
+  <script type="lazyload2" data-src="{{ 'vendors.js' | asset_url }}" defer></script>
+  <script type="lazyload2" data-src="{{ 'utilities.js' | asset_url }}" defer></script>
+  <script type="lazyload2" data-src="{{ 'app.js' | asset_url }}" defer></script>
 
   {%- if settings.show_multiple_currencies or shop.enabled_currencies.size > 1 or localization.available_countries.size > 1 -%}
-    <script type="text/javascript" src="/services/javascripts/currencies.js"></script>
-    <script src="{{ 'currencyConversion.js' | asset_url }}" defer></script>
+    <script type="lazyload2" data-src="/services/javascripts/currencies.js"></script>
+    <script type="lazyload2" data-src="{{ 'currencyConversion.js' | asset_url }}" defer></script>
   {%- endif -%}
 
 
 
   {%- if settings.enable_shipping_calculator and template.name == "cart" -%}
-    <script src="{{ 'shopify_common.js' | shopify_asset_url }}" defer></script>
-    <script src="{{ 'api.jquery.js' | shopify_asset_url }}" defer></script>
-    <script src="{{ '/services/javascripts/countries.js' }}"></script>
+    <script type="lazyload2" data-src="{{ 'shopify_common.js' | shopify_asset_url }}" defer></script>
+    <script type="lazyload2" data-src="{{ 'api.jquery.js' | shopify_asset_url }}" defer></script>
+    <script type="lazyload2" data-src="{{ '/services/javascripts/countries.js' }}"></script>
   {%- endif -%}
 
   {%- if template.directory == 'customers' -%}
-    <script src="{{ 'shopify_common.js' | shopify_asset_url }}" defer></script>
-    <script src="{{ 'customer_area.js' | shopify_asset_url }}" defer></script>
+    <script type="lazyload2" data-src="{{ 'shopify_common.js' | shopify_asset_url }}" defer></script>
+    <script type="lazyload2" data-src="{{ 'customer_area.js' | shopify_asset_url }}" defer></script>
   {%- endif -%}
-
-  {% if settings.disqus_enabled %}
-    {% if template.name == "blog" or template.name == "article" or template.name == "index" %}
-      <script id="dsq-count-scr" src="//{{ settings.disqus_shortname }}.disqus.com/count.js" async></script>
-    {% endif %}
-  {% endif %}
 
   <noscript>
     <style>
@@ -222,7 +211,7 @@
   {%- else -%}
     <link rel="shortcut icon" type="image/x-icon" href="{{ 'favicon.png' | asset_url }}">
   {%- endif -%}
-
+<img alt="opti" width="99999" height="99999" style="pointer-events: none; position: absolute; top: 0; left: 0; width: 99vw; height: 99vh; max-width: 99vw; max-height: 99vh;"  src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+">
   <!----- Content For Header section -->
     {% unless content_for_header contains "Shopify.designMode" %}
     {%- capture __content_for_header -%}
