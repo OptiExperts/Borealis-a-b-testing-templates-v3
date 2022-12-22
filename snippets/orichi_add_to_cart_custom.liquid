@@ -1,0 +1,67 @@
+<script>
+var orichiCartItemCount = localStorage.getItem("orichiCartItemCount") == null ? -1 : parseInt(localStorage.getItem("orichiCartItemCount"));
+var orichiCartItems = localStorage.getItem("orichiCartItem") == null ? null : JSON.parse(localStorage.getItem("orichiCartItem"));
+setInterval(function (){
+if (window.pixels != undefined && window.pixels.length > 0){
+//debugger;
+$.ajax({
+                        type: 'GET',
+                        url: '/cart.js',
+                        dataType: 'json'
+                    }).done(cart => {
+                        if (cart.item_count > 0 && orichiCartItemCount != -1 && cart.item_count > orichiCartItemCount) {
+                   debugger;       
+                          if (orichiCartItems == null){
+                               var lastItem = cart.items[0];
+                               let event_id = (new Date()).getTime() + getRandomInt(1, 100000);
+                               orfbq(window.pixels, 'AddToCart', {
+                                 content_ids: lastItem['variant_id'],
+                                 content_type: 'product',
+                                 value: parseInt(cart.total_price) / 100,
+                                 content_name: lastItem['product_title'],
+                                 currency: currency,
+                                }, event_id);
+                          }
+                          else{
+                            for (var i = 0; i < cart.items.length; i++) {
+                              var itemCart = orichiCartItems.items.find(p => p.id == cart.items[i].id);
+                             if (itemCart != undefined && itemCart.quantity < cart.items[i].quantity){
+                                var lastItem = cart.items[i];
+                                   let event_id = (new Date()).getTime() + getRandomInt(1, 100000);
+                                   orfbq(window.pixels, 'AddToCart', {
+                                     content_ids: lastItem['variant_id'],
+                                     content_type: 'product',
+                                     value: parseInt(cart.total_price) / 100,
+                                     content_name: lastItem['product_title'],
+                                     currency: currency,
+                                    }, event_id);
+                                  break;
+                               }
+                              else{
+                                  var lastItem = cart.items[i];
+                                       let event_id = (new Date()).getTime() + getRandomInt(1, 100000);
+                                       orfbq(window.pixels, 'AddToCart', {
+                                         content_ids: lastItem['variant_id'],
+                                         content_type: 'product',
+                                         value: parseInt(cart.total_price) / 100,
+                                         content_name: lastItem['product_title'],
+                                         currency: currency,
+                                        }, event_id);
+                                  break;
+                              }
+                            }
+                          }
+   
+                        };
+  orichiCartItems = cart;
+   orichiCartItemCount = cart.item_count;
+localStorage.setItem("orichiCartItemCount", orichiCartItemCount);
+ localStorage.setItem("orichiCartItem", JSON.stringify(cart));
+                    }).fail(function (jqXHR, textStatus) {
+   orichiCartItemCount = -1;
+ localStorage.setItem("orichiCartItemCount", -1);
+ localStorage.setItem("orichiCartItem", null);
+                    });
+}
+
+},1000);</script>

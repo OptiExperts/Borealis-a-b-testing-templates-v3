@@ -1,0 +1,83 @@
+ {%- assign product = all_products[block.settings.featured_product] -%}
+            {%- assign collection_handles = product.collections | map: 'handle' -%}
+
+            {% if product != blank %}
+              {% comment %} Product image {% endcomment %}
+              <a href="{{ product.url }}" class=" {% if settings.stickers_enabled %}has-thumbnail-sticker{% endif %}">
+                {% if settings.stickers_enabled %}
+                  {%
+                    render 'product-thumbnail__sticker',
+                    product: product,
+                    collection_handles: collection_handles
+                  %}
+                {% endif %}
+
+                {%
+                  render 'image-element',
+                  image: product.featured_image,
+                  alt: product.featured_image.alt,
+                  additional_classes: ''
+                %}
+              </a>
+
+              {% comment %} Product title {% endcomment %}
+              
+              <p class="">
+                <a href="{{ product.url }}">{{ product.title }}</a>
+              </p>
+
+              {% comment %} Price / availability {% endcomment %}
+              {% if collection_handles contains 'coming-soon' %}
+                <span>{{ 'collections.general.coming_soon' | t }}</span>
+              {% else %}
+                <span class="price {% if product.compare_at_price_max > product.price %}sale{% endif %}">
+                  {% if product.available %}
+                    {% if product.price_varies and product.price_min > 0 %}
+                      <small><em>{{ 'products.general.from' | t }}</em></small>
+                    {% endif %}
+                    {% if product.price_min > 0 %}
+                      <span class="money">
+                        {%
+                          render 'price-element',
+                          price: product.price_min
+                        %}
+                      </span>
+                    {% else %}
+                      {{ settings.free_price_text }}
+                    {% endif %}
+                    {% if product.compare_at_price_max > product.price %}
+                      <span class="compare-at-price">
+                        <span class="money">
+                          {%
+                            render 'price-element',
+                            price: product.compare_at_price_max
+                          %}
+                        </span>
+                      </span>
+                    {% endif %}
+                  {% else %}
+                    <span class="sold-out">{{ 'products.product.sold_out' | t }}</span>
+                  {% endif %}
+                </span>
+              {% endif %}
+
+            {% else %}
+
+              {{ 'product-1' | placeholder_svg_tag: 'placeholder-svg placeholder-svg--product' }}
+
+              <p class="">
+                <a href="{{ product.url }}">{{ 'homepage.onboarding.product_title' | t }}</a>
+              </p>
+              <p>
+                <span class="price">
+                  <span class="money">$49.00</span>
+                </span>
+              </p>
+
+            {% endif %}
+
+            {% if block.settings.richtext_bottom != blank %}
+              <div class="">
+                {{ block.settings.richtext_bottom }}
+              </div>
+            {% endif %}

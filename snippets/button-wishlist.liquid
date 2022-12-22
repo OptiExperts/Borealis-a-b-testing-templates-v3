@@ -1,0 +1,38 @@
+<!-- Swym Wishlist Plus EPI Button-->
+  <button data-with-epi="true" class="swym-button swym-add-to-wishlist-view-product product_{{product.id}}" data-swaction="addToWishlist" data-product-id="{{product.id | json}}" data-variant-id="{{product.variants[0].id}}" data-product-url="{{ shop.url }}{{ product.url }}"></button>
+  <!-- Swym Wishlist Plus EPI Button-->
+
+{% comment %}
+  Shopify Wishlist
+  Usage:
+    - Markup: {%- render 'button-wishlist', product: product -%}
+    - Place this snippet inside your existing product card snippet
+
+  Parameters:
+    - product: <Shopify product> (required)
+
+{%- if product.handle != blank -%}
+  <button id="wishlist-custom" type="button" aria-label="Add to wishlist" class button-wishlist data-product-handle="{{ product.handle }}">
+    <style scoped>
+      .icon {
+        fill: transparent;
+        stroke: #000000;
+        transition: fill 0.3s ease;
+      }
+
+      .active .icon {
+        fill: black;
+        stroke: #000000;
+      }
+      #wishlist-custom {
+    z-index: 99999;
+    height: 26px;
+    padding-top: 3px;
+    background-color: white;
+    border: 1px solid;
+      }
+    </style>
+    {%- render 'icon-heart' -%}
+  </button>
+{%- endif -%}
+{% endcomment %}
