@@ -1,1 +1,1420 @@
-{"current":{"show_announcement_bar":false,"show_popup":false,"show_fixed_message":true,"header_layout":"vertical","footer_layout":"classic","image_loading_style":"fade-in","logo_mobile":"shopify:\/\/shop_images\/borealis-logo.jpg","mobile_logo_width":150,"logo_mobile_position":"center","logo_menu_position":"left","show_search_icon_mobile":true,"show_locale_selector":true,"show_currency_selector":true,"mobile_sidebar_position":"below","mobile_menu_background_color":"rgba(0,0,0,0)","mobile_menu_opacity":100,"mobile_menu_link_color":"#000000","mobile_menu_link_hover_color":"#b87d23","button_primary_padding":"regular","button_primary_bg_color":"#000000","button_primary_bg_color_transparency":100,"button_primary_border_color":"#ffffff","button_primary_text_color":"#ffffff","button_primary_bg_color--highlight":"#37668b","button_primary_bg_color_transparency--highlight":100,"button_primary_border_color--highlight":"#000000","button_primary_text_color--highlight":"#000000","button_primary_border_radius":0,"button_secondary_padding":"regular","button_secondary_bg_color":"#000000","button_secondary_bg_color_transparency":0,"button_secondary_border_color":"#000000","button_secondary_text_color":"#ffffff","button_secondary_bg_color--highlight":"#000000","button_secondary_bg_color_transparency--highlight":100,"button_secondary_border_color--highlight":"#000000","button_secondary_text_color--highlight":"#ffffff","button_secondary_border_radius":0,"button_link_padding":"regular","button_link_text_color":"#000000","button_link_text_color--highlight":"#c2872b","button_link_underline_style":"solid","button_link_underline_thickness":1,"button_cart_padding":"regular","button_cart_bg_color":"#d99e43","button_cart_bg_color--highlight":"#c2872b","button_cart_border_color":"#000000","button_cart_border_color--highlight":"#000000","button_cart_text_color":"#ffffff","button_cart_text_color--highlight":"#000000","button_cart_icon":"cart","button_cart_icon_position":"right","button_cart_border_radius":2,"icon":"icon_solid","toggle_icon_style":"plus_and_minus","breadcrumb_capitalization":"none","breadcrumb_separator":"arrow","breadcrumb_size":"regular","dropdown_style":"vertical","dropdown_position":"below-parent","dropdown_link_spacing":"medium","use_placeholders":false,"form_button_style":"button--primary","display_heading_divider":true,"heading_divider_animation":"slideInLeft","heading_divider_style":"short","heading_divider_width":1,"toggle_sidebar":false,"tab_style":"regular","table_styles_enabled":true,"qty_box_style":"box","qty_border_radius":0,"tag_style":"solid","mega_menu_1":true,"mega_menu_2":true,"mega_menu_3":false,"mega_menu_4":false,"mega_menu_5":false,"mega_menu_6":false,"mega_menu_7":false,"mega_menu_8":false,"mega_menu_9":false,"mega_menu_10":false,"shop_bg_color":"#ffffff","border_color":"#000000","regular_color":"#000000","link_color":"#000000","link_hover_color":"#37668b","heading_color":"#000000","banner_heading_color":"#ffffff","divider_color":"#bebebe","logo_text":"#ffffff","header_background":"#000000","header_link_color":"#ffffff","header_link_hover_color":"#b87d23","header_cart_badge_color":"#37668b","cart_background_color":"#000000","show_dropdown_shadow":true,"dropdown_background":"#000000","dropdown_background_opacity":100,"dropdown_link_color":"#ffffff","dropdown_link_hover_color":"#bebebe","footer_background":"#000000","footer_border":"#ffffff","footer_link_color":"#ffffff","footer_link_hover_color":"#37668b","footer_text_color":"#ffffff","review_star":"#b87d23","sale_color":"#37668b","was_price_color":"#dddddd","product_hover_text_color":"#ffffff","product_hover_bg_color":"#fefefe","banner_bestseller":"#ffffff","banner_comingsoon":"#000000","banner_new":"#37668b","banner_preorder":"#ffffff","banner_sale":"#d3d3d3","banner_staffpick":"#939393","qty_icon_color":"#ffffff","qty_icon_hover_color":"#000000","qty_background_color":"#000","qty_background_hover_color":"#d3d3d3","regular__font":"futura_n4","regular_font_size":16,"logo__font":"futura_n4","logo_font_size":20,"logo_font_style":"none","nav__font":"futura_n4","nav_font_size":16,"nav_letter_spacing":1,"nav_font_style":"none","dropdown_heading_font_size":18,"dropdown_font_size":16,"dropdown_letter_spacing":0,"dropdown_font_style":"none","button__font":"futura_n4","button_letter_spacing":0,"button_font_style":"none","heading__font":"futura_n4","heading_size":24,"heading_letter_spacing":0,"heading_font_style":"none","preheading_font":"futura_n4","preheading_size":16,"preheading_style":"none","subheading_font":"futura_n4","subheading_size":16,"subheading_style":"none","banner_heading__font":"futura_n4","banner_heading_size":41,"banner_heading_style":"uppercase","banner_text__font":"futura_n4","banner_text_size":16,"banner_text_letter_spacing":1,"footer_heading_font_size":18,"footer_font_size":16,"search_option":"product","search_title":"Search","search_placeholder":"What are you looking for?","search_heading_color":"#000","search_display_style":"popup","search_popup_bg":"#fff","search_menu":"","enable_autocomplete":true,"search_to_display":6,"enable_shopify_collection_badges":true,"show_secondary_image":true,"display_vendor":false,"thumbnail_hover_enabled":false,"thumbnail_text_alignment":"left","stickers_enabled":true,"sticker_shape":"square","sticker_position":"right","collection_swatches":true,"collection_swatches_shape":"square","display_product_quantity":false,"limit_quantity":true,"display_inventory_left":false,"inventory_threshold":10,"free_price_text":"Free","product_form_style":"radio","sold_out_options":"disabled","swatch_style":"square","notify_me_form":true,"notify_me_description":"<p>Notify me when this product is available:<\/p>","size_chart":"","enable_quickshop":true,"quickshop_button_style":"button--secondary","qs_popup_color":"#ffffff","cart_action":"drawer","show_lock_icon":true,"cart_icon":"cart","display_special_instructions":true,"display_tos_checkbox":true,"tos_page":"","display_savings":true,"display_ajax_quantity_box":false,"cart_message":"","go_to_checkout":true,"enable_shipping_calculator":false,"shipping_calculator_default_country":"United States","currency_format":"money_with_currency_format","show_multiple_currencies":false,"supported_currencies":"USD CAD INR GBP AUD EUR JPY","default_currency":"USD","disqus_enabled":false,"disqus_shortname":"","dribbble_link":"","tiktok_link":"https:\/\/tiktok.com\/@shopify","favicon":"shopify:\/\/shop_images\/B_logo_only_vector_form_1.png","checkout_header_image":"shopify:\/\/shop_images\/moda__page--password-banner-01.jpg","checkout_logo_image":"shopify:\/\/shop_images\/moda__logo-colour.png","checkout_logo_position":"left","checkout_logo_size":"small","checkout_body_background_image":"","checkout_body_background_color":"#eeeeee","checkout_input_background_color_mode":"white","checkout_sidebar_background_image":"","checkout_sidebar_background_color":"#ffffff","checkout_heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_body_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_accent_color":"#c2872b","checkout_button_color":"#c2872b","checkout_error_color":"#930302","enable_shopify_review_comments":false,"quickshop_show_vendor":false,"quickshop_show_price_savings":true,"show_dynamic_checkout_button":true,"quickshop_truncate_words":true,"quickshop_truncate_words_limit":20,"show_product_gallery_thumbnails":true,"quickshop_arrows":true,"quickshop_magnify_images":true,"quickshop_speed":0,"quickshop_gallery_transition_styles":"slide","quickshop_thumbnail_position":"bottom-thumbnails","enable_thumbnail_slider":true,"quickshop_gallery_position":"left","video_looping":false,"social_media_share_style":"squared","product_layout":"image_scroll","icon_style":"icons","og_image_fallback":"shopify:\/\/shop_images\/moda-social-share-image.jpg","show_labels":false,"quikckshop_show_price_savings":true,"logo_width":200,"field_input_style":"square","btn1_font_size":16,"btn1_border_radius":0,"btn1_block":false,"btn1_bg_color":"#000000","btn1_border_color":"rgba(0,0,0,0)","btn1_text_color":"#ffffff","btn1_bg_color--highlight":"#606060","btn1_border_color--highlight":"rgba(0,0,0,0)","btn1_text_color--highlight":"#ffffff","btn2_font_size":16,"btn2_border_radius":0,"btn2_block":false,"btn2_bg_color":"rgba(0,0,0,0)","btn2_border_color":"#000000","btn2_text_color":"#000000","btn2_bg_color--highlight":"#000000","btn2_border_color--highlight":"#000000","btn2_text_color--highlight":"#ffffff","btn3_font_size":12,"btn3_border_radius":2,"btn3_bg_color":"#000","btn3_bg_color_transparency":100,"btn3_bg_color--highlight":"#fff","btn3_bg_color_transparency--highlight":100,"btn3_border_color":"#000","btn3_border_color--highlight":"#000","btn3_text_color":"#fff","btn3_text_color--highlight":"#000","btn3_icon":"","btn3_icon_position":"left","btn3_animation":"checkmark","sections":{"1557099047693":{"type":"index__image-with-text-overlay","settings":{"link":"shopify:\/\/collections\/new","image":"shopify:\/\/shop_images\/moda__iwto-01.jpg","pretext":"","title":"What's new?","subtitle":"<p>Freshen up your wardrobe with our new arrivals for summer and beyond.<\/p>","pretext_color":"#ffffff","heading_color":"#ffffff","subheading_color":"#ffffff","text_alignment":"left","text_horizontal_position":"left","text_vertical_position":"bottom","background_color":"#ffffff","background_opacity":0,"border_color":"#ffffff","border_width":0,"text_width":40,"button_1":"","button_1_link":"","button_1_style":"button--secondary","button_2":"","button_2_link":"","button_2_style":"button--secondary","mobile_image_crop":"center","mobile_text_below_image":false,"pretext_color_mobile":"#d99e43","heading_color_mobile":"#1f1f1f","subheading_color_mobile":"#1f1f1f","width":"standard","padding_top":20,"padding_bottom":0,"padding_left":0,"padding_right":0,"animation":"none","css_class":"","custom_css":""}},"announcement-bar":{"type":"announcement-bar","settings":{"icon_label":"","text":"<p>Now offering curbside pickup!<\/p>","alignment":"center","size":"regular","button_label":"More info","link":"shopify:\/\/pages\/faq","button_style":"button--link-style","background":"#ffffff","text_color":"#37668b","width":"wide","homepage_only":false,"enable_sticky":false,"show_close_icon":true,"css_class":"","custom_css":""}},"header__top-bar":{"type":"header__top-bar","blocks":{"header__top-bar-0":{"type":"text","settings":{"text":"123 Main Street, Pleasantville USA"}},"header__top-bar-1":{"type":"social_media","settings":{}}},"block_order":["header__top-bar-0","header__top-bar-1"],"settings":{"show_top_bar":true,"font":"open_sans_n4","font_style":"none","font_size":14,"letter_spacing":0,"show_locale_selector":true,"show_currency_selector":true,"background":"rgba(0,0,0,0)","link_color":"rgba(0,0,0,0)","link_hover_color":"rgba(0,0,0,0)","text_color":"rgba(0,0,0,0)","width":"standard","css_class":"","custom_css":""}},"header-classic":{"type":"header-classic","settings":{"logo_width":200,"main_linklist":"main-menu","menu_alignment":"start","dropdown_click":false,"display_search":true,"icon_style":"icons","enable_overlay":false,"show_text_shadow":false,"overlay_link_color":"rgba(0,0,0,0)","overlay_link_hover_color":"rgba(0,0,0,0)","overlay_background":"rgba(0,0,0,0)","overlay_background_opacity":0,"overlay_logo_width":80,"enable_sticky":false,"sticky_background_opacity":50,"scroll_logo_width":80,"width":"standard","vertical_alignment":"center","css_class":"","custom_css":""}},"mega-menu-1":{"type":"mega-menu-1","blocks":{"c3bb55ba-41b3-49f1-8cff-95a7f84bbbb2":{"type":"featured_product","settings":{"featured_product":"borealis-bull-shark-v2-white-dial-mercedes-hands-date-miyota-9015","richtext_bottom":""}},"046abd78-79d5-42d2-8241-9baf1c95d323":{"type":"featured_product","settings":{"featured_product":"borealis-bull-shark-v2-black-dial-red-ceramic-bezel-snow-flake-hands-date-miyota-9015","richtext_bottom":""}},"3981920f-fb81-401b-b9f1-67f9da86af62":{"type":"featured_product","settings":{"featured_product":"pre-order-borealis-sea-storm-mk2-gmt-version-aa","richtext_bottom":""}},"0f3ea144-71fd-4b6e-b42b-c12a84024853":{"type":"featured_product","settings":{"featured_product":"borealis-bull-shark-v2-blue-dial-snowflake-hands-no-date","richtext_bottom":""}}},"block_order":["c3bb55ba-41b3-49f1-8cff-95a7f84bbbb2","046abd78-79d5-42d2-8241-9baf1c95d323","3981920f-fb81-401b-b9f1-67f9da86af62","0f3ea144-71fd-4b6e-b42b-c12a84024853"],"settings":{"parent_link":"Shop","enable_mega_menu_border":false,"mega_menu_background_color":"#000000","mega_menu_text_color":"#ffffff","show_mega_bottom_bar":true,"mega_bottom_bar_icon":"box","mega_bottom_bar_text":"Free shipping","mega_bottom_bar_link":"","size":"regular","bottom_banner_bg":"#000000","bottom_banner_text":"#ffffff","css_class":"","custom_css":""}},"footer__icon-bar":{"type":"footer__icon-bar","blocks":{"footer__icon-bar-0":{"type":"text","settings":{"icon":"wrench","text":"100% Silver","link":""}},"footer__icon-bar-1":{"type":"text","settings":{"icon":"gem","text":"Modren","link":""}},"footer__icon-bar-2":{"type":"text","settings":{"icon":"chat","text":"24\/7 support","link":""}},"footer__icon-bar-3":{"type":"text","settings":{"icon":"truck","text":"Free shipping","link":""}}},"block_order":["footer__icon-bar-0","footer__icon-bar-1","footer__icon-bar-2","footer__icon-bar-3"],"settings":{"show_icon_bar":true,"alignment":"center","icon_position":"row","size":"medium","background":"#8b8b8b","link_color":"#ffffff","link_hover_color":"#000000","text_color":"#ffffff","width":"standard","css_class":"","custom_css":""}},"footer-classic":{"type":"footer-classic","blocks":{"footer-classic-0":{"type":"logo","settings":{"logo":"shopify:\/\/shop_images\/SCR-20220805-g40.png","size":"medium","text":"","social_icons_footer":false}},"footer-classic-1":{"type":"link_list","settings":{"menu":"policies","social_icons_footer":false}},"1559910846146":{"type":"link_list","settings":{"menu":"footer","social_icons_footer":false}}},"block_order":["footer-classic-0","footer-classic-1","1559910846146"],"settings":{"copyright_text":"","display_designed_by":false,"display_shopify":false,"display_payment_methods":true,"show_locale_selector":true,"show_currency_selector":true,"css_class":"","custom_css":""}},"header-centered__top-bar":{"type":"header-centered__top-bar","settings":{"show_social_icons":true,"text":"<p>Find a Location<\/p>","show_locale_selector":true,"show_currency_selector":true,"font":"open_sans_n4","font_style":"none","font_size":14,"letter_spacing":0,"top_bar_background":"rgba(0,0,0,0)","top_bar_link":"rgba(0,0,0,0)","top_bar_link_hover":"rgba(0,0,0,0)","top_bar_text":"rgba(0,0,0,0)","display_search":true,"icon_style":"icons","cart_button_background":"#ffffff","cart_button_text":"#1f1f1f","css_class":"","custom_css":""}},"header-centered":{"type":"header-centered","settings":{"logo":"shopify:\/\/shop_images\/moda__logo-colour.png","logo_width":200,"logo_position":"above","main_linklist":"main-menu","menu_spacing":"default","dropdown_click":false,"enable_overlay":false,"show_text_shadow":false,"overlay_background":"rgba(0,0,0,0)","overlay_background_opacity":0,"overlay_link_color":"rgba(0,0,0,0)","overlay_link_hover_color":"rgba(0,0,0,0)","overlay_logo":"","overlay_logo_width":80,"enable_sticky":true,"display_search":true,"sticky_background_opacity":50,"scroll_logo_width":200,"width":"standard","css_class":"","custom_css":""}},"collection__main":{"type":"collection__main","settings":{"collection_breadcrumb":true,"collection_tags":true,"collection_sort":true,"show_promo_banner":false,"image_darken":false,"promo_title":"Special sale on now!","promo_text":"<p>Description of promotion with lots of details.<\/p>","banner_height":"medium","align_height":false,"collection_height":200,"products_per_row":3,"mobile_products_per_row":"1","pagination_limit":48,"pagination_type":"basic_pagination","width":"standard","padding_top":40,"padding_bottom":40,"css_class":"","custom_css":""}},"product-image-scroll__main":{"type":"product-image-scroll__main","settings":{"enable_zoom":true,"enable_product_lightbox":true,"display_thumbnails":true,"slideshow_speed":0,"slideshow_transition":"slide","enable_thumbnail_slider":true,"product_images_position":"left","set_product_height":false,"product_height":500,"video_looping":false,"width":"standard","padding_top":10,"padding_bottom":0,"css_class":"","custom_css":""}},"header-vertical":{"type":"header-vertical","blocks":{"header-vertical-0":{"type":"logo","settings":{"logo":"shopify:\/\/shop_images\/borealis-logo_14d46dba-5a91-4599-ac3b-c31f76cdf1d1.jpg","logo_width":80}},"1564418469739":{"type":"search","settings":{}},"header-vertical-3":{"type":"navigation","settings":{"main_linklist":"main-menu","nav_background":"#000000","nav_link_color":"#ffffff","nav_link_hover_color":"#37668b"}},"header-vertical-1":{"type":"icons","settings":{"icon_style":"icons_text","display_search":true}},"header-vertical-4":{"type":"payment_icons","settings":{}},"1564424835331":{"type":"text","settings":{"title":"About Borealis company","text":"<p>Our <strong>watches<\/strong> are reliable, <strong>clean<\/strong>, easy to read and made with the <strong>highest <\/strong>grade <strong>quality <\/strong>tools and materials. As part of our <strong>values<\/strong> they are also fairly priced and affordable to <strong>majority<\/strong> of watch collectors.<\/p>"}},"68e47845-61ca-4dab-a296-812e0d2fb4a5":{"type":"social_media","settings":{}}},"block_order":["header-vertical-0","1564418469739","header-vertical-3","header-vertical-1","header-vertical-4","1564424835331","68e47845-61ca-4dab-a296-812e0d2fb4a5"],"settings":{"alignment":"left","dropdown_click":false,"css_class":"","custom_css":""}},"blog__main":{"type":"blog__main","settings":{"blog_tags":false,"blog_posts_per_row":2,"blog_posts_per_page":12,"pagination_type":"basic_pagination","blog_author":false,"blog_date":true,"read_time":true,"blog_comment_count":true,"blog_show_tags":true,"blog_show_excerpt":true,"show_border":true,"button_label":"Read more","button_type":"none","width":"standard","padding_top":40,"padding_bottom":40,"animation":"none","css_class":"","custom_css":""}},"popup":{"type":"popup","settings":{"show_close_icon":true,"show_popup_on_mobile":true,"display_border":false,"border_color":"#cccccc","border_width":6,"newsletter_title":"Stay up to date","newsletter_text":"<p>Sign up for our newsletter to hear about new arrivals, upcoming promotions and more!<\/p>","newsletter_section_text_align":"center","text_color":"#404040","background_color":"#ffffff","show_signup_form":true,"display_first_name":true,"display_last_name":false,"image":"shopify:\/\/shop_images\/moda__popup-01.jpg","image_cropping":"center","image_position":"left","overlay_color":"#404040","overlay_background_opacity":80,"popup_delay":2,"popup_days_to_hide":"2","animation":"fadeInDown","css_class":"","custom_css":""}},"404__main":{"type":"404__main","settings":{"not_found_text":"<p>We're sorry, but the page you're looking for could not be found.<\/p>\n<p>Try searching or <a href=\"\/collections\/all\">continue shopping<\/a>.<\/p>","display_search_field":true,"width":"standard","padding_top":60,"padding_bottom":29,"css_class":"","custom_css":""}},"cart__main":{"type":"cart__main","settings":{"display_product_quantity_cart":true,"display_savings":true,"cart_message":"","width":"standard","padding_top":40,"padding_bottom":40,"css_class":"","custom_css":""}},"password__main":{"type":"password__main","settings":{"custom_logo":"shopify:\/\/shop_images\/moda__logo-colour.png","password-page-background":"shopify:\/\/shop_images\/moda__page--password-banner-01.jpg","pagework_page_bg_stretched":true,"copyright_text":"","display_designed_by":true,"display_shopify":true,"social_media":true,"password_page_background_color":"#ffffff","password_page_text_color":"#000000","newsletter_title":"Subscribe","newsletter_richtext":"<p>Sign up to get the latest on sales, new releases and more …<\/p>","show_signup_form":true,"display_first_name":false,"display_last_name":false,"padding_top":80,"padding_bottom":40,"css_class":"","custom_css":""}},"product__sidebar":{"type":"product__sidebar","blocks":{"product__sidebar-0":{"type":"featured_promo","settings":{"promo_background":"#eeeeee","promo_text":"#000000","promo_image":"","richtext":"<p>Use this area for promotional information.<\/p>","promo_link":"","button_label":"Shop now","button_style":"button--1"}},"product__sidebar-1":{"type":"menu","settings":{"menu":""}},"product__sidebar-2":{"type":"text","settings":{"title":"Heading","text":"<p>Text area can be used for details about blog authors or general information.<\/p>"}}},"block_order":["product__sidebar-0","product__sidebar-1","product__sidebar-2"],"settings":{"css_class":"","custom_css":""}},"product__main":{"type":"product__main","settings":{"product_images_position":"left","set_product_height":false,"product_height":500,"video_looping":false,"gallery_arrows":true,"enable_zoom":true,"enable_product_lightbox":true,"slideshow_speed":3,"slideshow_transition":"slide","display_thumbnails":true,"thumbnail_position":"bottom-thumbnails","enable_thumbnail_slider":true,"width":"standard","padding_top":20,"padding_bottom":20,"animation":"none","css_class":"","custom_css":""}},"1562254735876":{"type":"index__blog-posts","settings":{"title":"","blog_widget_select":"news","home_page_articles":2,"blog_show_tags":true,"blog_author":false,"read_time":true,"blog_date":true,"blog_comment_count":false,"blog_show_excerpt":false,"show-border":true,"button_label":"Read more","button_type":"button--primary","width":"standard","padding_top":20,"padding_bottom":0,"animation":"none","css_class":"","custom_css":""}},"1562257105406":{"type":"index__map","settings":{"map_address":"Los Angeles","map_height":400,"zoom_level":11,"api_key":"","show_pin":true,"map_style":"retro","width":"wide","padding_top":0,"padding_bottom":0,"padding_left":0,"padding_right":0,"animation":"none","css_class":"","custom_css":""}},"fixed-message":{"type":"fixed-message","settings":{"text":"<p>We use cookies on our website to give you the best shopping experience. By using this site, you agree to its use of cookies.<\/p>","button_label":"Yes, I agree","button_style":"button--link-style","background":"#404040","background_opacity":86,"text_color":"#ffffff","width":"wide","css_class":"","custom_css":""}},"1562329826835":{"type":"index__newsletter","settings":{"display_first_name":false,"display_last_name":false,"newsletter_title":"","newsletter_richtext":"<p>Stay up to date by signing up for our monthly newsletter below.<\/p>","newsletter_section_text_align":"center","background_color":"rgba(0,0,0,0)","text_color":"rgba(0,0,0,0)","image_darken":false,"image_cropping":"center","image_position":"left","width":"wide","padding_top":0,"padding_bottom":0,"padding_left":0,"padding_right":0,"animation":"none","css_class":"","custom_css":""}},"1562329965008":{"type":"index__icon-with-text-column","blocks":{"1564179003706":{"type":"logo_image","settings":{"icon_label":"sun","title":"Made on the Coast","text":"<p>We proudly design and manufacture all of our clothing locally in sunny L.A. Always with a Californian state of mind. <\/p>","button_label":"","link":""}},"1562329965008-1":{"type":"logo_image","settings":{"icon_label":"truck","title":"Free Shipping","text":"<p>We&#x27;re proud to offer free shipping and returns on all orders. We stand by our quality and want to be sure you love your new gear.<\/p>","button_label":"","link":""}},"1562329965008-0":{"type":"logo_image","settings":{"icon_label":"chat","title":"Committed to You","text":"<p>We are always here to answer any questions regarding our products or your purchase! Drop us a line and we&#x27;ll lend a hand.<\/p><p><\/p>","button_label":"","link":""}}},"block_order":["1564179003706","1562329965008-1","1562329965008-0"],"settings":{"icons_per_row":3,"icon_size":"small","align_text":"left","button_style":"button--primary","icon_color":"#bebebe","text_color":"rgba(0,0,0,0)","background":"rgba(0,0,0,0)","gradient":"rgba(0,0,0,0)","gradient_rotation":0,"width":"standard","show_gutter":true,"padding_top":20,"padding_bottom":20,"padding_left":0,"padding_right":0,"animation":"none","css_class":"","custom_css":""}},"1562700962866":{"type":"index__video","settings":{"aspect_ratio":"16:9","autoplay":false,"autoloop":true,"mute_video":false,"controls":true,"iframe_video":"https:\/\/www.youtube.com\/watch?v=gZikD68nen8","html5_video":"","pretext":"","title":"Coastal Surfing Campaign","subtitle":"Our latest collaboration","pretext_color":"#ffffff","heading_color":"#d99e43","subheading_color":"#ffffff","horizontal_text_position":"left","vertical_text_position":"center","text_align":"left","button_label":"Play video","button_style":"button--link-style","overlay_style":"full","video_overlay_color":"#404040","gradient":"rgba(0,0,0,0)","gradient_rotation":180,"background_opacity":41,"text_width":60,"mobile_text_below_video":true,"pretext_color_mobile":"#d99e43","heading_color_mobile":"rgba(0,0,0,0)","subheading_color_mobile":"#d99e43","width":"standard","padding_top":20,"padding_bottom":0,"padding_left":0,"padding_right":0,"animation":"none","css_class":"","custom_css":""}},"1564089784200":{"type":"index__collection-list","blocks":{"1564089784200-2":{"type":"collection","settings":{"feature_collection":"coming-soon","title":"Coming soon to the Shop","button_label":"View products"}},"1564089784200-1":{"type":"collection","settings":{"feature_collection":"shirts","title":"Essential Button-ups","button_label":"View products"}},"1564089784200-0":{"type":"collection","settings":{"feature_collection":"shorts","title":"Easy-to-wear Shorts","button_label":"View products"}}},"block_order":["1564089784200-2","1564089784200-1","1564089784200-0"],"settings":{"collections_per_row":3,"align_height":false,"collection_height":400,"enable_zoom":true,"button_style":"button--primary","overlay_background":"#c2872b","overlay_background_opacity":20,"overlay_text":"#ffffff","collection_title_below_image":false,"width":"standard","show_gutter":true,"padding_top":20,"padding_bottom":0,"animation":"none","css_class":"","custom_css":""}},"product__recommendations":{"type":"product__recommendations","settings":{"show_product_recommendations":true,"product_recommendations_style":"slider","product_recommendations_heading":"You may also like","products_per":3,"recommended_products_limit":4,"align_height":false,"collection_height":200,"css_class":"","custom_css":""}},"1564176792019":{"type":"index__slideshow-with-text","blocks":{"1564176792019-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/moda__slide-01.jpg","pretext":"","title":"Clothes for on-the-go","text":"<p>Our summer collection includes styles with fun and relaxed prints, while staying true to comfort – so you can keep on moving with your summer activities.<\/p>","button_label":"View collection","button_link":"shopify:\/\/collections\/summer"}},"1564176792019-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/moda__slide-02.jpg","pretext":"<p>introducing<\/p>","title":"Easy to wear Basics","text":"<p>The Basics collection includes wardrobe staples. Comfy + durable shirts and pants that are easy to put together with any outfit. <\/p>","button_label":"View collection","button_link":"shopify:\/\/collections\/basics"}}},"block_order":["1564176792019-0","1564176792019-1"],"settings":{"background_color":"#eedec3","text_color":"#222222","text_alignment":"center","text_transition":"fadeInDown","button_style":"button--primary","show_nav_buttons":true,"image_position":"left","image_transition":"slide","image_slideshow_speed":8,"show_arrows":false,"width":"standard","show_gutter":true,"padding_top":20,"padding_bottom":10,"css_class":"","custom_css":""}},"footer-centered":{"type":"footer-centered","blocks":{"footer-centered-0":{"type":"logo","settings":{"logo":"shopify:\/\/shop_images\/borealis-icon.jpg","size":"small"}},"1b5a45ec-bd7b-4abe-9a9e-bec8d4145ded":{"type":"link_list","settings":{"menu":"policies"}},"cee7cee6-b7d7-4c8e-9d60-1d812f76bd11":{"type":"text","disabled":true,"settings":{"title":"Philosophy","content":"<p>Our<strong> watches <\/strong>are reliable, <strong>clean<\/strong>, easy to read and made with the<strong> highest <\/strong>grade <strong>quality<\/strong> tools and materials. As part of our<strong> values<\/strong> they are also fairly priced and affordable to<strong> majority <\/strong>of watch collectors.<\/p>"}}},"block_order":["footer-centered-0","1b5a45ec-bd7b-4abe-9a9e-bec8d4145ded","cee7cee6-b7d7-4c8e-9d60-1d812f76bd11"],"settings":{"copyright_text":"","display_designed_by":false,"display_shopify":false,"display_payment_methods":false,"show_locale_selector":true,"show_currency_selector":true,"css_class":"","custom_css":""}},"mega-menu-2":{"type":"mega-menu-2","settings":{"parent_link":"Clothing","enable_mega_menu_border":false,"mega_menu_background_color":"#f6f6f6","mega_menu_text_color":"#404040","show_mega_bottom_bar":false,"mega_bottom_bar_icon":"sun","mega_bottom_bar_text":"","mega_bottom_bar_link":"","size":"regular","bottom_banner_bg":"#d99e43","bottom_banner_text":"#efefef","css_class":"","custom_css":""}},"login-form":{"type":"login-form","settings":{"richtext":"","image":"shopify:\/\/shop_images\/moda__page--login-01.jpg","image_position":"right","width":"standard","padding_top":40,"padding_bottom":40,"css_class":"","custom_css":""}},"article__main":{"type":"article__main","settings":{"show_breadcrumb":true,"blog_author":true,"blog_date":true,"read_time":true,"blog_comment_count":true,"show_tags":false,"show_featured_image":false,"width":"standard","padding_top":40,"padding_bottom":40,"css_class":"","custom_css":""}},"search__main":{"type":"search__main","settings":{"search_breadcrumb":true,"text":"<p>Find what you seek.<\/p>","products_per_row":3,"mobile_products_per_row":"2","pagination_limit":48,"pagination_type":"basic_pagination","align_height":false,"collection_height":200,"blog_author":false,"blog_date":true,"width":"standard","padding_top":40,"padding_bottom":40,"css_class":"","custom_css":""}},"footer-promotional":{"type":"footer-promotional","blocks":{"footer-promotional-0":{"type":"logo","settings":{"size":"small","alignment":"start"}},"footer-promotional-1":{"type":"link_list","settings":{"menu_1":"main-menu","menu_2":"","menu_3":""}},"footer-promotional-2":{"type":"text","settings":{"title":"Title","content":"<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"}}},"block_order":["footer-promotional-0","footer-promotional-1","footer-promotional-2"],"settings":{"copyright_text":"","display_designed_by":true,"display_shopify":true,"display_payment_methods":true,"show_locale_selector":true,"show_currency_selector":true,"enable_promo":true,"promo_background":"#EEEEEE","promo_text":"#000000","promo_position":"row-reverse","richtext":"<p>Use this area for promotional information.<\/p>","promo_link":"","button_label":"Shop now","button_style":"button--primary","css_class":"","custom_css":""}}},"content_for_index":["1557099047693","1564176792019","1564089784200","1562700962866","1562254735876","1562329965008","1562257105406","1562329826835"],"blocks":{"855628211100114053":{"type":"shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507","disabled":false,"settings":{}},"1575957009345749421":{"type":"shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/side-drawer\/a103faaf-2125-4b0e-89fa-de5149736723","disabled":false,"settings":{"show_avatar":true,"position":"left","text":"","title":"","link":"","link_text":"","background_color":"","style_color_button_text":"","style_color_star":"","style_color_text":"","style_color_link":"","review_ids":"","product_ids":"","category":"","product_brand":"","tags":"","min_rating":"none","fill_empty":false,"random":false,"with_photos":false}},"4697538150380142411":{"type":"shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/reviews-popup\/a103faaf-2125-4b0e-89fa-de5149736723","disabled":true,"settings":{"layout":"horizontal","effect":"slidetop","delay_seconds":3,"show_seconds":10,"pause_seconds":10,"position":"bottomleft","color_background":"","color_star":"","color_text":"","review_ids":"","product_ids":"","category":"","product_brand":"","tags":"","min_rating":"none","fill_empty":false,"random":false,"with_photos":false}},"7612553728132747764":{"type":"shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/net-promoter-score-form-modal\/a103faaf-2125-4b0e-89fa-de5149736723","disabled":true,"settings":{"email":"","name":"","title":"","message":"Enable advanced features and increase your monthly order limit to match your business's needs.","reason":"","thank_you":"","label_name":"","label_email":""}},"6779579260278573237":{"type":"shopify:\/\/apps\/orichi-facebook-pixels-meta\/blocks\/orichi-pixel\/67bf7d46-e794-4117-adb7-273fd162e4d1","disabled":false,"settings":{}}}}}
+{
+  "current": {
+    "show_announcement_bar": false,
+    "show_popup": false,
+    "show_fixed_message": true,
+    "header_layout": "vertical",
+    "footer_layout": "classic",
+    "image_loading_style": "fade-in",
+    "logo_mobile": "shopify:\/\/shop_images\/borealis-logo.jpg",
+    "mobile_logo_width": 150,
+    "logo_mobile_position": "center",
+    "logo_menu_position": "left",
+    "show_search_icon_mobile": true,
+    "show_locale_selector": true,
+    "show_currency_selector": true,
+    "mobile_sidebar_position": "below",
+    "mobile_menu_background_color": "rgba(0,0,0,0)",
+    "mobile_menu_opacity": 100,
+    "mobile_menu_link_color": "#000000",
+    "mobile_menu_link_hover_color": "#b87d23",
+    "button_primary_padding": "regular",
+    "button_primary_bg_color": "#000000",
+    "button_primary_bg_color_transparency": 100,
+    "button_primary_border_color": "#ffffff",
+    "button_primary_text_color": "#ffffff",
+    "button_primary_bg_color--highlight": "#37668b",
+    "button_primary_bg_color_transparency--highlight": 100,
+    "button_primary_border_color--highlight": "#000000",
+    "button_primary_text_color--highlight": "#000000",
+    "button_primary_border_radius": 0,
+    "button_secondary_padding": "regular",
+    "button_secondary_bg_color": "#000000",
+    "button_secondary_bg_color_transparency": 0,
+    "button_secondary_border_color": "#000000",
+    "button_secondary_text_color": "#ffffff",
+    "button_secondary_bg_color--highlight": "#000000",
+    "button_secondary_bg_color_transparency--highlight": 100,
+    "button_secondary_border_color--highlight": "#000000",
+    "button_secondary_text_color--highlight": "#ffffff",
+    "button_secondary_border_radius": 0,
+    "button_link_padding": "regular",
+    "button_link_text_color": "#000000",
+    "button_link_text_color--highlight": "#cc0000",
+    "button_link_underline_style": "solid",
+    "button_link_underline_thickness": 1,
+    "button_cart_padding": "regular",
+    "button_cart_bg_color": "#cc0000",
+    "button_cart_bg_color--highlight": "#cc0000",
+    "button_cart_border_color": "#000000",
+    "button_cart_border_color--highlight": "#000000",
+    "button_cart_text_color": "#ffffff",
+    "button_cart_text_color--highlight": "#000000",
+    "button_cart_icon": "cart",
+    "button_cart_icon_position": "right",
+    "button_cart_border_radius": 2,
+    "icon": "icon_solid",
+    "toggle_icon_style": "plus_and_minus",
+    "breadcrumb_capitalization": "none",
+    "breadcrumb_separator": "arrow",
+    "breadcrumb_size": "regular",
+    "dropdown_style": "vertical",
+    "dropdown_position": "below-parent",
+    "dropdown_link_spacing": "medium",
+    "use_placeholders": false,
+    "form_button_style": "button--primary",
+    "display_heading_divider": true,
+    "heading_divider_animation": "slideInLeft",
+    "heading_divider_style": "short",
+    "heading_divider_width": 1,
+    "toggle_sidebar": false,
+    "tab_style": "regular",
+    "table_styles_enabled": true,
+    "qty_box_style": "box",
+    "qty_border_radius": 0,
+    "tag_style": "solid",
+    "mega_menu_1": true,
+    "mega_menu_2": true,
+    "mega_menu_3": false,
+    "mega_menu_4": false,
+    "mega_menu_5": false,
+    "mega_menu_6": false,
+    "mega_menu_7": false,
+    "mega_menu_8": false,
+    "mega_menu_9": false,
+    "mega_menu_10": false,
+    "shop_bg_color": "#ffffff",
+    "border_color": "#000000",
+    "regular_color": "#000000",
+    "link_color": "#000000",
+    "link_hover_color": "#37668b",
+    "heading_color": "#000000",
+    "banner_heading_color": "#ffffff",
+    "divider_color": "#bebebe",
+    "logo_text": "#ffffff",
+    "header_background": "#000000",
+    "header_link_color": "#ffffff",
+    "header_link_hover_color": "#b87d23",
+    "header_cart_badge_color": "#37668b",
+    "cart_background_color": "#000000",
+    "show_dropdown_shadow": true,
+    "dropdown_background": "#000000",
+    "dropdown_background_opacity": 100,
+    "dropdown_link_color": "#ffffff",
+    "dropdown_link_hover_color": "#bebebe",
+    "footer_background": "#000000",
+    "footer_border": "#ffffff",
+    "footer_link_color": "#ffffff",
+    "footer_link_hover_color": "#37668b",
+    "footer_text_color": "#ffffff",
+    "review_star": "#b87d23",
+    "sale_color": "#37668b",
+    "was_price_color": "#dddddd",
+    "product_hover_text_color": "#ffffff",
+    "product_hover_bg_color": "#fefefe",
+    "banner_bestseller": "#ffffff",
+    "banner_comingsoon": "#000000",
+    "banner_new": "#37668b",
+    "banner_preorder": "#ffffff",
+    "banner_sale": "#d3d3d3",
+    "banner_staffpick": "#939393",
+    "qty_icon_color": "#ffffff",
+    "qty_icon_hover_color": "#000000",
+    "qty_background_color": "#000",
+    "qty_background_hover_color": "#d3d3d3",
+    "regular__font": "futura_n4",
+    "regular_font_size": 16,
+    "logo__font": "futura_n4",
+    "logo_font_size": 20,
+    "logo_font_style": "none",
+    "nav__font": "futura_n4",
+    "nav_font_size": 16,
+    "nav_letter_spacing": 1,
+    "nav_font_style": "none",
+    "dropdown_heading_font_size": 18,
+    "dropdown_font_size": 16,
+    "dropdown_letter_spacing": 0,
+    "dropdown_font_style": "none",
+    "button__font": "futura_n4",
+    "button_letter_spacing": 0,
+    "button_font_style": "none",
+    "heading__font": "futura_n4",
+    "heading_size": 24,
+    "heading_letter_spacing": 0,
+    "heading_font_style": "none",
+    "preheading_font": "futura_n4",
+    "preheading_size": 16,
+    "preheading_style": "none",
+    "subheading_font": "futura_n4",
+    "subheading_size": 16,
+    "subheading_style": "none",
+    "banner_heading__font": "futura_n4",
+    "banner_heading_size": 41,
+    "banner_heading_style": "uppercase",
+    "banner_text__font": "futura_n4",
+    "banner_text_size": 16,
+    "banner_text_letter_spacing": 1,
+    "footer_heading_font_size": 18,
+    "footer_font_size": 16,
+    "search_option": "product",
+    "search_title": "Search",
+    "search_placeholder": "What are you looking for?",
+    "search_heading_color": "#000",
+    "search_display_style": "popup",
+    "search_popup_bg": "#fff",
+    "search_menu": "",
+    "enable_autocomplete": true,
+    "search_to_display": 6,
+    "enable_shopify_collection_badges": true,
+    "show_secondary_image": true,
+    "display_vendor": false,
+    "thumbnail_hover_enabled": false,
+    "thumbnail_text_alignment": "left",
+    "stickers_enabled": true,
+    "sticker_shape": "square",
+    "sticker_position": "right",
+    "collection_swatches": true,
+    "collection_swatches_shape": "square",
+    "display_product_quantity": false,
+    "limit_quantity": true,
+    "display_inventory_left": false,
+    "inventory_threshold": 10,
+    "free_price_text": "Free",
+    "product_form_style": "radio",
+    "sold_out_options": "disabled",
+    "swatch_style": "square",
+    "notify_me_form": true,
+    "notify_me_description": "<p>Notify me when this product is available:<\/p>",
+    "size_chart": "",
+    "enable_quickshop": true,
+    "quickshop_button_style": "button--secondary",
+    "qs_popup_color": "#ffffff",
+    "cart_action": "drawer",
+    "show_lock_icon": true,
+    "cart_icon": "cart",
+    "display_special_instructions": true,
+    "display_tos_checkbox": true,
+    "tos_page": "",
+    "display_savings": true,
+    "display_ajax_quantity_box": false,
+    "cart_message": "",
+    "go_to_checkout": true,
+    "enable_shipping_calculator": false,
+    "shipping_calculator_default_country": "United States",
+    "currency_format": "money_with_currency_format",
+    "show_multiple_currencies": false,
+    "supported_currencies": "USD CAD INR GBP AUD EUR JPY",
+    "default_currency": "USD",
+    "disqus_enabled": false,
+    "disqus_shortname": "",
+    "dribbble_link": "",
+    "tiktok_link": "https:\/\/tiktok.com\/@shopify",
+    "favicon": "shopify:\/\/shop_images\/B_logo_only_vector_form_1.png",
+    "checkout_header_image": "shopify:\/\/shop_images\/moda__page--password-banner-01.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/moda__logo-colour.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "small",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#eeeeee",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#ffffff",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#c2872b",
+    "checkout_button_color": "#c2872b",
+    "checkout_error_color": "#930302",
+    "enable_shopify_review_comments": false,
+    "quickshop_show_vendor": false,
+    "quickshop_show_price_savings": true,
+    "show_dynamic_checkout_button": true,
+    "quickshop_truncate_words": true,
+    "quickshop_truncate_words_limit": 20,
+    "show_product_gallery_thumbnails": true,
+    "quickshop_arrows": true,
+    "quickshop_magnify_images": true,
+    "quickshop_speed": 0,
+    "quickshop_gallery_transition_styles": "slide",
+    "quickshop_thumbnail_position": "bottom-thumbnails",
+    "enable_thumbnail_slider": true,
+    "quickshop_gallery_position": "left",
+    "video_looping": false,
+    "social_media_share_style": "squared",
+    "product_layout": "image_scroll",
+    "icon_style": "icons",
+    "og_image_fallback": "shopify:\/\/shop_images\/moda-social-share-image.jpg",
+    "show_labels": false,
+    "quikckshop_show_price_savings": true,
+    "logo_width": 200,
+    "field_input_style": "square",
+    "btn1_font_size": 16,
+    "btn1_border_radius": 0,
+    "btn1_block": false,
+    "btn1_bg_color": "#000000",
+    "btn1_border_color": "rgba(0,0,0,0)",
+    "btn1_text_color": "#ffffff",
+    "btn1_bg_color--highlight": "#606060",
+    "btn1_border_color--highlight": "rgba(0,0,0,0)",
+    "btn1_text_color--highlight": "#ffffff",
+    "btn2_font_size": 16,
+    "btn2_border_radius": 0,
+    "btn2_block": false,
+    "btn2_bg_color": "rgba(0,0,0,0)",
+    "btn2_border_color": "#000000",
+    "btn2_text_color": "#000000",
+    "btn2_bg_color--highlight": "#000000",
+    "btn2_border_color--highlight": "#000000",
+    "btn2_text_color--highlight": "#ffffff",
+    "btn3_font_size": 12,
+    "btn3_border_radius": 2,
+    "btn3_bg_color": "#000",
+    "btn3_bg_color_transparency": 100,
+    "btn3_bg_color--highlight": "#fff",
+    "btn3_bg_color_transparency--highlight": 100,
+    "btn3_border_color": "#000",
+    "btn3_border_color--highlight": "#000",
+    "btn3_text_color": "#fff",
+    "btn3_text_color--highlight": "#000",
+    "btn3_icon": "",
+    "btn3_icon_position": "left",
+    "btn3_animation": "checkmark",
+    "sections": {
+      "1557099047693": {
+        "type": "index__image-with-text-overlay",
+        "settings": {
+          "link": "shopify:\/\/collections\/new",
+          "image": "shopify:\/\/shop_images\/moda__iwto-01.jpg",
+          "pretext": "",
+          "title": "What's new?",
+          "subtitle": "<p>Freshen up your wardrobe with our new arrivals for summer and beyond.<\/p>",
+          "pretext_color": "#ffffff",
+          "heading_color": "#ffffff",
+          "subheading_color": "#ffffff",
+          "text_alignment": "left",
+          "text_horizontal_position": "left",
+          "text_vertical_position": "bottom",
+          "background_color": "#ffffff",
+          "background_opacity": 0,
+          "border_color": "#ffffff",
+          "border_width": 0,
+          "text_width": 40,
+          "button_1": "",
+          "button_1_link": "",
+          "button_1_style": "button--secondary",
+          "button_2": "",
+          "button_2_link": "",
+          "button_2_style": "button--secondary",
+          "mobile_image_crop": "center",
+          "mobile_text_below_image": false,
+          "pretext_color_mobile": "#d99e43",
+          "heading_color_mobile": "#1f1f1f",
+          "subheading_color_mobile": "#1f1f1f",
+          "width": "standard",
+          "padding_top": 20,
+          "padding_bottom": 0,
+          "padding_left": 0,
+          "padding_right": 0,
+          "animation": "none",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "announcement-bar": {
+        "type": "announcement-bar",
+        "settings": {
+          "icon_label": "",
+          "text": "<p>Now offering curbside pickup!<\/p>",
+          "alignment": "center",
+          "size": "regular",
+          "button_label": "More info",
+          "link": "shopify:\/\/pages\/faq",
+          "button_style": "button--link-style",
+          "background": "#ffffff",
+          "text_color": "#37668b",
+          "width": "wide",
+          "homepage_only": false,
+          "enable_sticky": false,
+          "show_close_icon": true,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "header__top-bar": {
+        "type": "header__top-bar",
+        "blocks": {
+          "header__top-bar-0": {
+            "type": "text",
+            "settings": {
+              "text": "123 Main Street, Pleasantville USA"
+            }
+          },
+          "header__top-bar-1": {
+            "type": "social_media",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "header__top-bar-0",
+          "header__top-bar-1"
+        ],
+        "settings": {
+          "show_top_bar": true,
+          "font": "open_sans_n4",
+          "font_style": "none",
+          "font_size": 14,
+          "letter_spacing": 0,
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "background": "rgba(0,0,0,0)",
+          "link_color": "rgba(0,0,0,0)",
+          "link_hover_color": "rgba(0,0,0,0)",
+          "text_color": "rgba(0,0,0,0)",
+          "width": "standard",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "header-classic": {
+        "type": "header-classic",
+        "settings": {
+          "logo_width": 200,
+          "main_linklist": "main-menu",
+          "menu_alignment": "start",
+          "dropdown_click": false,
+          "display_search": true,
+          "icon_style": "icons",
+          "enable_overlay": false,
+          "show_text_shadow": false,
+          "overlay_link_color": "rgba(0,0,0,0)",
+          "overlay_link_hover_color": "rgba(0,0,0,0)",
+          "overlay_background": "rgba(0,0,0,0)",
+          "overlay_background_opacity": 0,
+          "overlay_logo_width": 80,
+          "enable_sticky": false,
+          "sticky_background_opacity": 50,
+          "scroll_logo_width": 80,
+          "width": "standard",
+          "vertical_alignment": "center",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "mega-menu-1": {
+        "type": "mega-menu-1",
+        "blocks": {
+          "c3bb55ba-41b3-49f1-8cff-95a7f84bbbb2": {
+            "type": "featured_product",
+            "settings": {
+              "featured_product": "borealis-bull-shark-v2-white-dial-mercedes-hands-date-miyota-9015",
+              "richtext_bottom": ""
+            }
+          },
+          "046abd78-79d5-42d2-8241-9baf1c95d323": {
+            "type": "featured_product",
+            "settings": {
+              "featured_product": "borealis-bull-shark-v2-black-dial-red-ceramic-bezel-snow-flake-hands-date-miyota-9015",
+              "richtext_bottom": ""
+            }
+          },
+          "3981920f-fb81-401b-b9f1-67f9da86af62": {
+            "type": "featured_product",
+            "settings": {
+              "featured_product": "pre-order-borealis-sea-storm-mk2-gmt-version-aa",
+              "richtext_bottom": ""
+            }
+          },
+          "0f3ea144-71fd-4b6e-b42b-c12a84024853": {
+            "type": "featured_product",
+            "settings": {
+              "featured_product": "borealis-bull-shark-v2-blue-dial-snowflake-hands-no-date",
+              "richtext_bottom": ""
+            }
+          }
+        },
+        "block_order": [
+          "c3bb55ba-41b3-49f1-8cff-95a7f84bbbb2",
+          "046abd78-79d5-42d2-8241-9baf1c95d323",
+          "3981920f-fb81-401b-b9f1-67f9da86af62",
+          "0f3ea144-71fd-4b6e-b42b-c12a84024853"
+        ],
+        "settings": {
+          "parent_link": "Shop",
+          "enable_mega_menu_border": false,
+          "mega_menu_background_color": "#000000",
+          "mega_menu_text_color": "#ffffff",
+          "show_mega_bottom_bar": true,
+          "mega_bottom_bar_icon": "box",
+          "mega_bottom_bar_text": "Free shipping",
+          "mega_bottom_bar_link": "",
+          "size": "regular",
+          "bottom_banner_bg": "#000000",
+          "bottom_banner_text": "#ffffff",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "footer__icon-bar": {
+        "type": "footer__icon-bar",
+        "blocks": {
+          "footer__icon-bar-0": {
+            "type": "text",
+            "settings": {
+              "icon": "wrench",
+              "text": "100% Silver",
+              "link": ""
+            }
+          },
+          "footer__icon-bar-1": {
+            "type": "text",
+            "settings": {
+              "icon": "gem",
+              "text": "Modren",
+              "link": ""
+            }
+          },
+          "footer__icon-bar-2": {
+            "type": "text",
+            "settings": {
+              "icon": "chat",
+              "text": "24\/7 support",
+              "link": ""
+            }
+          },
+          "footer__icon-bar-3": {
+            "type": "text",
+            "settings": {
+              "icon": "truck",
+              "text": "Free shipping",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "footer__icon-bar-0",
+          "footer__icon-bar-1",
+          "footer__icon-bar-2",
+          "footer__icon-bar-3"
+        ],
+        "settings": {
+          "show_icon_bar": true,
+          "alignment": "center",
+          "icon_position": "row",
+          "size": "medium",
+          "background": "#8b8b8b",
+          "link_color": "#ffffff",
+          "link_hover_color": "#000000",
+          "text_color": "#ffffff",
+          "width": "standard",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "footer-classic": {
+        "type": "footer-classic",
+        "blocks": {
+          "footer-classic-0": {
+            "type": "logo",
+            "settings": {
+              "logo": "shopify:\/\/shop_images\/SCR-20220805-g40.png",
+              "size": "medium",
+              "text": "",
+              "social_icons_footer": false
+            }
+          },
+          "footer-classic-1": {
+            "type": "link_list",
+            "settings": {
+              "menu": "policies",
+              "social_icons_footer": false
+            }
+          },
+          "1559910846146": {
+            "type": "link_list",
+            "settings": {
+              "menu": "footer",
+              "social_icons_footer": false
+            }
+          }
+        },
+        "block_order": [
+          "footer-classic-0",
+          "footer-classic-1",
+          "1559910846146"
+        ],
+        "settings": {
+          "copyright_text": "",
+          "display_designed_by": false,
+          "display_shopify": false,
+          "display_payment_methods": true,
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "header-centered__top-bar": {
+        "type": "header-centered__top-bar",
+        "settings": {
+          "show_social_icons": true,
+          "text": "<p>Find a Location<\/p>",
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "font": "open_sans_n4",
+          "font_style": "none",
+          "font_size": 14,
+          "letter_spacing": 0,
+          "top_bar_background": "rgba(0,0,0,0)",
+          "top_bar_link": "rgba(0,0,0,0)",
+          "top_bar_link_hover": "rgba(0,0,0,0)",
+          "top_bar_text": "rgba(0,0,0,0)",
+          "display_search": true,
+          "icon_style": "icons",
+          "cart_button_background": "#ffffff",
+          "cart_button_text": "#1f1f1f",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "header-centered": {
+        "type": "header-centered",
+        "settings": {
+          "logo": "shopify:\/\/shop_images\/moda__logo-colour.png",
+          "logo_width": 200,
+          "logo_position": "above",
+          "main_linklist": "main-menu",
+          "menu_spacing": "default",
+          "dropdown_click": false,
+          "enable_overlay": false,
+          "show_text_shadow": false,
+          "overlay_background": "rgba(0,0,0,0)",
+          "overlay_background_opacity": 0,
+          "overlay_link_color": "rgba(0,0,0,0)",
+          "overlay_link_hover_color": "rgba(0,0,0,0)",
+          "overlay_logo": "",
+          "overlay_logo_width": 80,
+          "enable_sticky": true,
+          "display_search": true,
+          "sticky_background_opacity": 50,
+          "scroll_logo_width": 200,
+          "width": "standard",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "collection__main": {
+        "type": "collection__main",
+        "settings": {
+          "collection_breadcrumb": true,
+          "collection_tags": true,
+          "collection_sort": true,
+          "show_promo_banner": false,
+          "image_darken": false,
+          "promo_title": "Special sale on now!",
+          "promo_text": "<p>Description of promotion with lots of details.<\/p>",
+          "banner_height": "medium",
+          "align_height": false,
+          "collection_height": 200,
+          "products_per_row": 3,
+          "mobile_products_per_row": "1",
+          "pagination_limit": 48,
+          "pagination_type": "basic_pagination",
+          "width": "standard",
+          "padding_top": 40,
+          "padding_bottom": 40,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "product-image-scroll__main": {
+        "type": "product-image-scroll__main",
+        "settings": {
+          "enable_zoom": true,
+          "enable_product_lightbox": true,
+          "display_thumbnails": true,
+          "slideshow_speed": 0,
+          "slideshow_transition": "slide",
+          "enable_thumbnail_slider": true,
+          "product_images_position": "left",
+          "set_product_height": false,
+          "product_height": 500,
+          "video_looping": false,
+          "width": "standard",
+          "padding_top": 10,
+          "padding_bottom": 0,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "header-vertical": {
+        "type": "header-vertical",
+        "blocks": {
+          "header-vertical-0": {
+            "type": "logo",
+            "settings": {
+              "logo": "shopify:\/\/shop_images\/borealis-logo_14d46dba-5a91-4599-ac3b-c31f76cdf1d1.jpg",
+              "logo_width": 80
+            }
+          },
+          "1564418469739": {
+            "type": "search",
+            "settings": {
+            }
+          },
+          "header-vertical-3": {
+            "type": "navigation",
+            "settings": {
+              "main_linklist": "main-menu",
+              "nav_background": "#000000",
+              "nav_link_color": "#ffffff",
+              "nav_link_hover_color": "#37668b"
+            }
+          },
+          "header-vertical-1": {
+            "type": "icons",
+            "settings": {
+              "icon_style": "icons_text",
+              "display_search": true
+            }
+          },
+          "header-vertical-4": {
+            "type": "payment_icons",
+            "settings": {
+            }
+          },
+          "1564424835331": {
+            "type": "text",
+            "settings": {
+              "title": "About Borealis company",
+              "text": "<p>Our <strong>watches<\/strong> are reliable, <strong>clean<\/strong>, easy to read and made with the <strong>highest <\/strong>grade <strong>quality <\/strong>tools and materials. As part of our <strong>values<\/strong> they are also fairly priced and affordable to <strong>majority<\/strong> of watch collectors.<\/p>"
+            }
+          },
+          "68e47845-61ca-4dab-a296-812e0d2fb4a5": {
+            "type": "social_media",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "header-vertical-0",
+          "1564418469739",
+          "header-vertical-3",
+          "header-vertical-1",
+          "header-vertical-4",
+          "1564424835331",
+          "68e47845-61ca-4dab-a296-812e0d2fb4a5"
+        ],
+        "settings": {
+          "alignment": "left",
+          "dropdown_click": false,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "blog__main": {
+        "type": "blog__main",
+        "settings": {
+          "blog_tags": false,
+          "blog_posts_per_row": 2,
+          "blog_posts_per_page": 12,
+          "pagination_type": "basic_pagination",
+          "blog_author": false,
+          "blog_date": true,
+          "read_time": true,
+          "blog_comment_count": true,
+          "blog_show_tags": true,
+          "blog_show_excerpt": true,
+          "show_border": true,
+          "button_label": "Read more",
+          "button_type": "none",
+          "width": "standard",
+          "padding_top": 40,
+          "padding_bottom": 40,
+          "animation": "none",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "popup": {
+        "type": "popup",
+        "settings": {
+          "show_close_icon": true,
+          "show_popup_on_mobile": true,
+          "display_border": false,
+          "border_color": "#cccccc",
+          "border_width": 6,
+          "newsletter_title": "Stay up to date",
+          "newsletter_text": "<p>Sign up for our newsletter to hear about new arrivals, upcoming promotions and more!<\/p>",
+          "newsletter_section_text_align": "center",
+          "text_color": "#404040",
+          "background_color": "#ffffff",
+          "show_signup_form": true,
+          "display_first_name": true,
+          "display_last_name": false,
+          "image": "shopify:\/\/shop_images\/moda__popup-01.jpg",
+          "image_cropping": "center",
+          "image_position": "left",
+          "overlay_color": "#404040",
+          "overlay_background_opacity": 80,
+          "popup_delay": 2,
+          "popup_days_to_hide": "2",
+          "animation": "fadeInDown",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "404__main": {
+        "type": "404__main",
+        "settings": {
+          "not_found_text": "<p>We're sorry, but the page you're looking for could not be found.<\/p>\n<p>Try searching or <a href=\"\/collections\/all\">continue shopping<\/a>.<\/p>",
+          "display_search_field": true,
+          "width": "standard",
+          "padding_top": 60,
+          "padding_bottom": 29,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "cart__main": {
+        "type": "cart__main",
+        "settings": {
+          "display_product_quantity_cart": true,
+          "display_savings": true,
+          "cart_message": "",
+          "width": "standard",
+          "padding_top": 40,
+          "padding_bottom": 40,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "password__main": {
+        "type": "password__main",
+        "settings": {
+          "custom_logo": "shopify:\/\/shop_images\/moda__logo-colour.png",
+          "password-page-background": "shopify:\/\/shop_images\/moda__page--password-banner-01.jpg",
+          "pagework_page_bg_stretched": true,
+          "copyright_text": "",
+          "display_designed_by": true,
+          "display_shopify": true,
+          "social_media": true,
+          "password_page_background_color": "#ffffff",
+          "password_page_text_color": "#000000",
+          "newsletter_title": "Subscribe",
+          "newsletter_richtext": "<p>Sign up to get the latest on sales, new releases and more …<\/p>",
+          "show_signup_form": true,
+          "display_first_name": false,
+          "display_last_name": false,
+          "padding_top": 80,
+          "padding_bottom": 40,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "product__sidebar": {
+        "type": "product__sidebar",
+        "blocks": {
+          "product__sidebar-0": {
+            "type": "featured_promo",
+            "settings": {
+              "promo_background": "#eeeeee",
+              "promo_text": "#000000",
+              "promo_image": "",
+              "richtext": "<p>Use this area for promotional information.<\/p>",
+              "promo_link": "",
+              "button_label": "Shop now",
+              "button_style": "button--1"
+            }
+          },
+          "product__sidebar-1": {
+            "type": "menu",
+            "settings": {
+              "menu": ""
+            }
+          },
+          "product__sidebar-2": {
+            "type": "text",
+            "settings": {
+              "title": "Heading",
+              "text": "<p>Text area can be used for details about blog authors or general information.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "product__sidebar-0",
+          "product__sidebar-1",
+          "product__sidebar-2"
+        ],
+        "settings": {
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "product__main": {
+        "type": "product__main",
+        "settings": {
+          "product_images_position": "left",
+          "set_product_height": false,
+          "product_height": 500,
+          "video_looping": false,
+          "gallery_arrows": true,
+          "enable_zoom": true,
+          "enable_product_lightbox": true,
+          "slideshow_speed": 3,
+          "slideshow_transition": "slide",
+          "display_thumbnails": true,
+          "thumbnail_position": "bottom-thumbnails",
+          "enable_thumbnail_slider": true,
+          "width": "standard",
+          "padding_top": 20,
+          "padding_bottom": 20,
+          "animation": "none",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1562254735876": {
+        "type": "index__blog-posts",
+        "settings": {
+          "title": "",
+          "blog_widget_select": "news",
+          "home_page_articles": 2,
+          "blog_show_tags": true,
+          "blog_author": false,
+          "read_time": true,
+          "blog_date": true,
+          "blog_comment_count": false,
+          "blog_show_excerpt": false,
+          "show-border": true,
+          "button_label": "Read more",
+          "button_type": "button--primary",
+          "width": "standard",
+          "padding_top": 20,
+          "padding_bottom": 0,
+          "animation": "none",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1562257105406": {
+        "type": "index__map",
+        "settings": {
+          "map_address": "Los Angeles",
+          "map_height": 400,
+          "zoom_level": 11,
+          "api_key": "",
+          "show_pin": true,
+          "map_style": "retro",
+          "width": "wide",
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "padding_left": 0,
+          "padding_right": 0,
+          "animation": "none",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "fixed-message": {
+        "type": "fixed-message",
+        "settings": {
+          "text": "<p>We use cookies on our website to give you the best shopping experience. By using this site, you agree to its use of cookies.<\/p>",
+          "button_label": "Yes, I agree",
+          "button_style": "button--link-style",
+          "background": "#404040",
+          "background_opacity": 86,
+          "text_color": "#ffffff",
+          "width": "wide",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1562329826835": {
+        "type": "index__newsletter",
+        "settings": {
+          "display_first_name": false,
+          "display_last_name": false,
+          "newsletter_title": "",
+          "newsletter_richtext": "<p>Stay up to date by signing up for our monthly newsletter below.<\/p>",
+          "newsletter_section_text_align": "center",
+          "background_color": "rgba(0,0,0,0)",
+          "text_color": "rgba(0,0,0,0)",
+          "image_darken": false,
+          "image_cropping": "center",
+          "image_position": "left",
+          "width": "wide",
+          "padding_top": 0,
+          "padding_bottom": 0,
+          "padding_left": 0,
+          "padding_right": 0,
+          "animation": "none",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1562329965008": {
+        "type": "index__icon-with-text-column",
+        "blocks": {
+          "1564179003706": {
+            "type": "logo_image",
+            "settings": {
+              "icon_label": "sun",
+              "title": "Made on the Coast",
+              "text": "<p>We proudly design and manufacture all of our clothing locally in sunny L.A. Always with a Californian state of mind. <\/p>",
+              "button_label": "",
+              "link": ""
+            }
+          },
+          "1562329965008-1": {
+            "type": "logo_image",
+            "settings": {
+              "icon_label": "truck",
+              "title": "Free Shipping",
+              "text": "<p>We&#x27;re proud to offer free shipping and returns on all orders. We stand by our quality and want to be sure you love your new gear.<\/p>",
+              "button_label": "",
+              "link": ""
+            }
+          },
+          "1562329965008-0": {
+            "type": "logo_image",
+            "settings": {
+              "icon_label": "chat",
+              "title": "Committed to You",
+              "text": "<p>We are always here to answer any questions regarding our products or your purchase! Drop us a line and we&#x27;ll lend a hand.<\/p><p><\/p>",
+              "button_label": "",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1564179003706",
+          "1562329965008-1",
+          "1562329965008-0"
+        ],
+        "settings": {
+          "icons_per_row": 3,
+          "icon_size": "small",
+          "align_text": "left",
+          "button_style": "button--primary",
+          "icon_color": "#bebebe",
+          "text_color": "rgba(0,0,0,0)",
+          "background": "rgba(0,0,0,0)",
+          "gradient": "rgba(0,0,0,0)",
+          "gradient_rotation": 0,
+          "width": "standard",
+          "show_gutter": true,
+          "padding_top": 20,
+          "padding_bottom": 20,
+          "padding_left": 0,
+          "padding_right": 0,
+          "animation": "none",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1562700962866": {
+        "type": "index__video",
+        "settings": {
+          "aspect_ratio": "16:9",
+          "autoplay": false,
+          "autoloop": true,
+          "mute_video": false,
+          "controls": true,
+          "iframe_video": "https:\/\/www.youtube.com\/watch?v=gZikD68nen8",
+          "html5_video": "",
+          "pretext": "",
+          "title": "Coastal Surfing Campaign",
+          "subtitle": "Our latest collaboration",
+          "pretext_color": "#ffffff",
+          "heading_color": "#d99e43",
+          "subheading_color": "#ffffff",
+          "horizontal_text_position": "left",
+          "vertical_text_position": "center",
+          "text_align": "left",
+          "button_label": "Play video",
+          "button_style": "button--link-style",
+          "overlay_style": "full",
+          "video_overlay_color": "#404040",
+          "gradient": "rgba(0,0,0,0)",
+          "gradient_rotation": 180,
+          "background_opacity": 41,
+          "text_width": 60,
+          "mobile_text_below_video": true,
+          "pretext_color_mobile": "#d99e43",
+          "heading_color_mobile": "rgba(0,0,0,0)",
+          "subheading_color_mobile": "#d99e43",
+          "width": "standard",
+          "padding_top": 20,
+          "padding_bottom": 0,
+          "padding_left": 0,
+          "padding_right": 0,
+          "animation": "none",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1564089784200": {
+        "type": "index__collection-list",
+        "blocks": {
+          "1564089784200-2": {
+            "type": "collection",
+            "settings": {
+              "feature_collection": "coming-soon",
+              "title": "Coming soon to the Shop",
+              "button_label": "View products"
+            }
+          },
+          "1564089784200-1": {
+            "type": "collection",
+            "settings": {
+              "feature_collection": "shirts",
+              "title": "Essential Button-ups",
+              "button_label": "View products"
+            }
+          },
+          "1564089784200-0": {
+            "type": "collection",
+            "settings": {
+              "feature_collection": "shorts",
+              "title": "Easy-to-wear Shorts",
+              "button_label": "View products"
+            }
+          }
+        },
+        "block_order": [
+          "1564089784200-2",
+          "1564089784200-1",
+          "1564089784200-0"
+        ],
+        "settings": {
+          "collections_per_row": 3,
+          "align_height": false,
+          "collection_height": 400,
+          "enable_zoom": true,
+          "button_style": "button--primary",
+          "overlay_background": "#c2872b",
+          "overlay_background_opacity": 20,
+          "overlay_text": "#ffffff",
+          "collection_title_below_image": false,
+          "width": "standard",
+          "show_gutter": true,
+          "padding_top": 20,
+          "padding_bottom": 0,
+          "animation": "none",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "product__recommendations": {
+        "type": "product__recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "product_recommendations_style": "slider",
+          "product_recommendations_heading": "You may also like",
+          "products_per": 3,
+          "recommended_products_limit": 4,
+          "align_height": false,
+          "collection_height": 200,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "1564176792019": {
+        "type": "index__slideshow-with-text",
+        "blocks": {
+          "1564176792019-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/moda__slide-01.jpg",
+              "pretext": "",
+              "title": "Clothes for on-the-go",
+              "text": "<p>Our summer collection includes styles with fun and relaxed prints, while staying true to comfort – so you can keep on moving with your summer activities.<\/p>",
+              "button_label": "View collection",
+              "button_link": "shopify:\/\/collections\/summer"
+            }
+          },
+          "1564176792019-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/moda__slide-02.jpg",
+              "pretext": "<p>introducing<\/p>",
+              "title": "Easy to wear Basics",
+              "text": "<p>The Basics collection includes wardrobe staples. Comfy + durable shirts and pants that are easy to put together with any outfit. <\/p>",
+              "button_label": "View collection",
+              "button_link": "shopify:\/\/collections\/basics"
+            }
+          }
+        },
+        "block_order": [
+          "1564176792019-0",
+          "1564176792019-1"
+        ],
+        "settings": {
+          "background_color": "#eedec3",
+          "text_color": "#222222",
+          "text_alignment": "center",
+          "text_transition": "fadeInDown",
+          "button_style": "button--primary",
+          "show_nav_buttons": true,
+          "image_position": "left",
+          "image_transition": "slide",
+          "image_slideshow_speed": 8,
+          "show_arrows": false,
+          "width": "standard",
+          "show_gutter": true,
+          "padding_top": 20,
+          "padding_bottom": 10,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "footer-centered": {
+        "type": "footer-centered",
+        "blocks": {
+          "footer-centered-0": {
+            "type": "logo",
+            "settings": {
+              "logo": "shopify:\/\/shop_images\/borealis-icon.jpg",
+              "size": "small"
+            }
+          },
+          "1b5a45ec-bd7b-4abe-9a9e-bec8d4145ded": {
+            "type": "link_list",
+            "settings": {
+              "menu": "policies"
+            }
+          },
+          "cee7cee6-b7d7-4c8e-9d60-1d812f76bd11": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "title": "Philosophy",
+              "content": "<p>Our<strong> watches <\/strong>are reliable, <strong>clean<\/strong>, easy to read and made with the<strong> highest <\/strong>grade <strong>quality<\/strong> tools and materials. As part of our<strong> values<\/strong> they are also fairly priced and affordable to<strong> majority <\/strong>of watch collectors.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "footer-centered-0",
+          "1b5a45ec-bd7b-4abe-9a9e-bec8d4145ded",
+          "cee7cee6-b7d7-4c8e-9d60-1d812f76bd11"
+        ],
+        "settings": {
+          "copyright_text": "",
+          "display_designed_by": false,
+          "display_shopify": false,
+          "display_payment_methods": false,
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "mega-menu-2": {
+        "type": "mega-menu-2",
+        "settings": {
+          "parent_link": "Clothing",
+          "enable_mega_menu_border": false,
+          "mega_menu_background_color": "#f6f6f6",
+          "mega_menu_text_color": "#404040",
+          "show_mega_bottom_bar": false,
+          "mega_bottom_bar_icon": "sun",
+          "mega_bottom_bar_text": "",
+          "mega_bottom_bar_link": "",
+          "size": "regular",
+          "bottom_banner_bg": "#d99e43",
+          "bottom_banner_text": "#efefef",
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "login-form": {
+        "type": "login-form",
+        "settings": {
+          "richtext": "",
+          "image": "shopify:\/\/shop_images\/moda__page--login-01.jpg",
+          "image_position": "right",
+          "width": "standard",
+          "padding_top": 40,
+          "padding_bottom": 40,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "article__main": {
+        "type": "article__main",
+        "settings": {
+          "show_breadcrumb": true,
+          "blog_author": true,
+          "blog_date": true,
+          "read_time": true,
+          "blog_comment_count": true,
+          "show_tags": false,
+          "show_featured_image": false,
+          "width": "standard",
+          "padding_top": 40,
+          "padding_bottom": 40,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "search__main": {
+        "type": "search__main",
+        "settings": {
+          "search_breadcrumb": true,
+          "text": "<p>Find what you seek.<\/p>",
+          "products_per_row": 3,
+          "mobile_products_per_row": "2",
+          "pagination_limit": 48,
+          "pagination_type": "basic_pagination",
+          "align_height": false,
+          "collection_height": 200,
+          "blog_author": false,
+          "blog_date": true,
+          "width": "standard",
+          "padding_top": 40,
+          "padding_bottom": 40,
+          "css_class": "",
+          "custom_css": ""
+        }
+      },
+      "footer-promotional": {
+        "type": "footer-promotional",
+        "blocks": {
+          "footer-promotional-0": {
+            "type": "logo",
+            "settings": {
+              "size": "small",
+              "alignment": "start"
+            }
+          },
+          "footer-promotional-1": {
+            "type": "link_list",
+            "settings": {
+              "menu_1": "main-menu",
+              "menu_2": "",
+              "menu_3": ""
+            }
+          },
+          "footer-promotional-2": {
+            "type": "text",
+            "settings": {
+              "title": "Title",
+              "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "footer-promotional-0",
+          "footer-promotional-1",
+          "footer-promotional-2"
+        ],
+        "settings": {
+          "copyright_text": "",
+          "display_designed_by": true,
+          "display_shopify": true,
+          "display_payment_methods": true,
+          "show_locale_selector": true,
+          "show_currency_selector": true,
+          "enable_promo": true,
+          "promo_background": "#EEEEEE",
+          "promo_text": "#000000",
+          "promo_position": "row-reverse",
+          "richtext": "<p>Use this area for promotional information.<\/p>",
+          "promo_link": "",
+          "button_label": "Shop now",
+          "button_style": "button--primary",
+          "css_class": "",
+          "custom_css": ""
+        }
+      }
+    },
+    "content_for_index": [
+      "1557099047693",
+      "1564176792019",
+      "1564089784200",
+      "1562700962866",
+      "1562254735876",
+      "1562329965008",
+      "1562257105406",
+      "1562329826835"
+    ],
+    "blocks": {
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "1575957009345749421": {
+        "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/side-drawer\/a103faaf-2125-4b0e-89fa-de5149736723",
+        "disabled": false,
+        "settings": {
+          "show_avatar": true,
+          "position": "left",
+          "text": "",
+          "title": "",
+          "link": "",
+          "link_text": "",
+          "background_color": "",
+          "style_color_button_text": "",
+          "style_color_star": "",
+          "style_color_text": "",
+          "style_color_link": "",
+          "review_ids": "",
+          "product_ids": "",
+          "category": "",
+          "product_brand": "",
+          "tags": "",
+          "min_rating": "none",
+          "fill_empty": false,
+          "random": false,
+          "with_photos": false
+        }
+      },
+      "4697538150380142411": {
+        "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/reviews-popup\/a103faaf-2125-4b0e-89fa-de5149736723",
+        "disabled": true,
+        "settings": {
+          "layout": "horizontal",
+          "effect": "slidetop",
+          "delay_seconds": 3,
+          "show_seconds": 10,
+          "pause_seconds": 10,
+          "position": "bottomleft",
+          "color_background": "",
+          "color_star": "",
+          "color_text": "",
+          "review_ids": "",
+          "product_ids": "",
+          "category": "",
+          "product_brand": "",
+          "tags": "",
+          "min_rating": "none",
+          "fill_empty": false,
+          "random": false,
+          "with_photos": false
+        }
+      },
+      "7612553728132747764": {
+        "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/net-promoter-score-form-modal\/a103faaf-2125-4b0e-89fa-de5149736723",
+        "disabled": true,
+        "settings": {
+          "email": "",
+          "name": "",
+          "title": "",
+          "message": "Enable advanced features and increase your monthly order limit to match your business's needs.",
+          "reason": "",
+          "thank_you": "",
+          "label_name": "",
+          "label_email": ""
+        }
+      },
+      "6779579260278573237": {
+        "type": "shopify:\/\/apps\/orichi-facebook-pixels-meta\/blocks\/orichi-pixel\/67bf7d46-e794-4117-adb7-273fd162e4d1",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  }
+}
