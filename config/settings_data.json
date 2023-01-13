@@ -470,7 +470,7 @@
           "footer__icon-bar-3"
         ],
         "settings": {
-          "show_icon_bar": true,
+          "show_icon_bar": false,
           "alignment": "center",
           "icon_position": "row",
           "size": "medium",
