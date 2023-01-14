@@ -12,10 +12,10 @@
     },
     "sidebar": {
       "type": "product__sidebar",
+      "disabled": true,
       "blocks": {
         "4b57db9c-cd74-440b-af13-9b5cd8723393": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "title": "BEST SELLERS",
             "text": ""
