@@ -894,9 +894,9 @@
           "text": "<p>We use cookies on our website to give you the best shopping experience. By using this site, you agree to its use of cookies.<\/p>",
           "button_label": "Yes, I agree",
           "button_style": "button--link-style",
-          "background": "#404040",
+          "background": "#ffffff",
           "background_opacity": 86,
-          "text_color": "#ffffff",
+          "text_color": "#000000",
           "width": "wide",
           "css_class": "",
           "custom_css": ""
