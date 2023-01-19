@@ -108,6 +108,11 @@
             "display_savings": true
           }
         },
+        "83dd809a-8a33-44b3-80fe-31c284b1df1b": {
+          "type": "rating",
+          "settings": {
+          }
+        },
         "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-2": {
           "type": "description",
           "disabled": true,
@@ -130,6 +135,7 @@
       "block_order": [
         "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-0",
         "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-1",
+        "83dd809a-8a33-44b3-80fe-31c284b1df1b",
         "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-2",
         "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-3",
         "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-4"
