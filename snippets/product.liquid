@@ -117,7 +117,7 @@
             {% elsif section_onboarding %}
               {{ 'homepage.onboarding.product_title' | t }}
             {% else %}
-              {{ product.title }}
+             <a href="{{ product.url }}"> {{ product.title }}</a>
             {% endif %}
           </h1>
 
