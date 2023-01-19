@@ -43,7 +43,7 @@
     "95629adf-10ab-4f51-b6b0-ea600a603e0b": {
       "type": "index__html",
       "settings": {
-        "html_content": "<video class=\"lozad\" preload=\"none\" playsinline=\"\" loop=\"\" muted=\"\" autoplay=\"autoplay\" id=\"vid\" width=\"100%\">\n\t<source data-src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/18b3e73cb4bb456292dd94b18f5ba17c.webm\" type=\"video\/webm\">\n\t<source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c55c528999334f4aa6b519f10c699713.mp4\">\n  <\/source><\/source><\/video>\n<style>\n.section.has-background {\n    padding-left: 0px !important;\n    padding-right: 0px !important;\nmax-width: fit-content !important;\nwidth: 100% !important;\n    max-width: inherit !important;\n}\n<\/style>",
+        "html_content": "<a href=\"https:\/\/www.borealiswatch.com\/collections\/\">\n<video class=\"lozad preload=\" none playsinline=\"\" loop=\"\" muted=\"\" autoplay=\"autoplay\" preload=\"\" id=\"vid\" width=\"100%\">\n\t<source data-src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/18b3e73cb4bb456292dd94b18f5ba17c.webm\" type=\"video\/webm\">\n\t<source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c55c528999334f4aa6b519f10c699713.mp4\">\n  <\/source><\/source><\/video>\n<style>\n.section.has-background {\n    padding-left: 0px !important;\n    padding-right: 0px !important;\n}\n<\/style><\/a>",
         "width": "standard",
         "padding_top": 0,
         "padding_bottom": 0,
