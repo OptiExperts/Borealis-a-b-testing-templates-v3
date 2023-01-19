@@ -892,12 +892,12 @@
         "type": "fixed-message",
         "settings": {
           "text": "",
-          "button_label": "Yes, I agree",
-          "button_style": "button--link-style",
+          "button_label": "",
+          "button_style": "button--primary",
           "background": "#ffffff",
           "background_opacity": 86,
           "text_color": "#000000",
-          "width": "wide",
+          "width": "standard",
           "css_class": "",
           "custom_css": ""
         }
