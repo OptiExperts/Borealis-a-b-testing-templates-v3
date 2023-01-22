@@ -1,0 +1,194 @@
+{
+  "sections": {
+    "image_with_text_overlay": {
+      "type": "index__image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "link": "shopify:\/\/collections\/new",
+        "pretext": "",
+        "title": "What's new?",
+        "subtitle": "<p>Freshen up your wardrobe with our new arrivals for summer and beyond.<\/p>",
+        "pretext_color": "#ffffff",
+        "heading_color": "#ffffff",
+        "subheading_color": "#ffffff",
+        "text_alignment": "left",
+        "text_horizontal_position": "left",
+        "text_vertical_position": "bottom",
+        "background_color": "#ffffff",
+        "background_opacity": 0,
+        "border_color": "#ffffff",
+        "border_width": 0,
+        "text_width": 40,
+        "button_1": "Shop Shirts",
+        "button_1_link": "shopify:\/\/collections\/shirts",
+        "button_1_style": "button--secondary",
+        "button_2": "",
+        "button_2_link": "",
+        "button_2_style": "button--secondary",
+        "mobile_image_crop": "center",
+        "mobile_text_below_image": false,
+        "pretext_color_mobile": "rgba(0,0,0,0)",
+        "heading_color_mobile": "#000000",
+        "subheading_color_mobile": "#000000",
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 10,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "fadeIn",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "95629adf-10ab-4f51-b6b0-ea600a603e0b": {
+      "type": "index__html",
+      "settings": {
+        "html_content": "<a href=\"https:\/\/www.borealiswatch.com\/collections\/\">\n<video class=\"lozad preload=\" none playsinline=\"\" loop=\"\" muted=\"\" autoplay=\"autoplay\" preload=\"\" id=\"vid\" width=\"100%\">\n\t<source data-src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/18b3e73cb4bb456292dd94b18f5ba17c.webm\" type=\"video\/webm\">\n\t<source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c55c528999334f4aa6b519f10c699713.mp4\">\n  <\/source><\/source><\/video>\n<style>\n.section.has-background {\n    padding-left: 0px !important;\n    padding-right: 0px !important;\n}\n<\/style><\/a>",
+        "width": "standard",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "padding_left": 0,
+        "padding_right": 0,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "6646c304-5f54-4f16-ba36-bedf0fc98d4b": {
+      "type": "index__featured-collection",
+      "settings": {
+        "title": "Borealis UMI Super Compressor",
+        "collection": "borealis-umi-super-compressor-diver-watch",
+        "products_per": 4,
+        "mobile_products_per_row": "1",
+        "products_limit": 10,
+        "align_height": false,
+        "collection_height": 270,
+        "collection_style": "grid",
+        "width": "wide",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "22a69f94-59de-4715-b2d5-2048661003fa": {
+      "type": "index__featured-collection",
+      "settings": {
+        "title": "Borealis Sea Storm MK2",
+        "collection": "borealis-sea-storm-mk2",
+        "products_per": 3,
+        "mobile_products_per_row": "1",
+        "products_limit": 9,
+        "align_height": true,
+        "collection_height": 400,
+        "collection_style": "grid",
+        "width": "wide",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "e2b11f83-e9bb-4aa9-a252-ecf394c74041": {
+      "type": "index__featured-product",
+      "blocks": {
+        "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-0": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-1": {
+          "type": "price",
+          "settings": {
+            "display_savings": true
+          }
+        },
+        "83dd809a-8a33-44b3-80fe-31c284b1df1b": {
+          "type": "rating",
+          "settings": {
+          }
+        },
+        "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-2": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "custom_description": ""
+          }
+        },
+        "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-3": {
+          "type": "form",
+          "settings": {
+            "show_payment_button": true
+          }
+        },
+        "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-4": {
+          "type": "share",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-0",
+        "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-1",
+        "83dd809a-8a33-44b3-80fe-31c284b1df1b",
+        "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-2",
+        "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-3",
+        "template--15700834058396__e2b11f83-e9bb-4aa9-a252-ecf394c74041-16716095410ee09bf2-4"
+      ],
+      "settings": {
+        "featured_product": "borealis-sintra-white-sunray-dial-date-miyota-9015-automatic-movement-version-b-c1",
+        "product_images_position": "right",
+        "set_product_height": true,
+        "product_height": 800,
+        "video_looping": false,
+        "gallery_arrows": true,
+        "enable_zoom": true,
+        "enable_product_lightbox": true,
+        "slideshow_speed": 0,
+        "slideshow_transition": "fade",
+        "display_thumbnails": false,
+        "thumbnail_position": "bottom-thumbnails",
+        "enable_thumbnail_slider": true,
+        "width": "standard",
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "bce7816d-8a94-425c-9b3c-50b026d53fb2": {
+      "type": "index__featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "borealis-bull-shark",
+        "products_per": 4,
+        "mobile_products_per_row": "1",
+        "products_limit": 8,
+        "align_height": true,
+        "collection_height": 200,
+        "collection_style": "grid",
+        "width": "wide",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "image_with_text_overlay",
+    "95629adf-10ab-4f51-b6b0-ea600a603e0b",
+    "6646c304-5f54-4f16-ba36-bedf0fc98d4b",
+    "22a69f94-59de-4715-b2d5-2048661003fa",
+    "e2b11f83-e9bb-4aa9-a252-ecf394c74041",
+    "bce7816d-8a94-425c-9b3c-50b026d53fb2"
+  ]
+}
