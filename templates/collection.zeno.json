@@ -1,0 +1,65 @@
+{
+  "sections": {
+    "main": {
+      "type": "collection__main",
+      "blocks": {
+        "934bfc39-ab27-4a20-bb13-4af0c569d134": {
+          "type": "tag_list",
+          "settings": {
+            "title": "Filter by"
+          }
+        },
+        "6839bc5c-2892-4013-b3dc-b12ea01b46e9": {
+          "type": "featured_promo",
+          "disabled": true,
+          "settings": {
+            "promo_background": "#eeeeee",
+            "promo_text": "#000000",
+            "promo_image": "shopify:\/\/shop_images\/pre-order-deposit-borealis-bull-shark-v2-white-dial-mercedes-hands-date-miyota-9015-bbsv2bb-165572_500x500_crop_center_ab5e8a90-f2f5-4a4b-9800-61f673c5f30e.webp",
+            "richtext": "<p>20% discount on new year sale of borealis collection<\/p>",
+            "promo_link": "shopify:\/\/collections\/borealis-bull-shark",
+            "button_label": "Shop now",
+            "button_style": "button--primary"
+          }
+        }
+      },
+      "block_order": [
+        "934bfc39-ab27-4a20-bb13-4af0c569d134",
+        "6839bc5c-2892-4013-b3dc-b12ea01b46e9"
+      ],
+      "settings": {
+        "collection_breadcrumb": true,
+        "collection_tags": true,
+        "collection_sort": true,
+        "show_sidebar": true,
+        "sidebar_position": "right",
+        "show_promo_banner": false,
+        "image": "shopify:\/\/shop_images\/Borealis_-_Adraga_-_1.1.jpg",
+        "image_darken": true,
+        "promo_title": "Special sale on now!",
+        "promo_text": "<p>Description of promotion with lots of details.<\/p>",
+        "banner_height": "small",
+        "align_height": true,
+        "collection_height": 150,
+        "products_per_row": 3,
+        "mobile_products_per_row": "1",
+        "pagination_limit": 48,
+        "pagination_type": "basic_pagination",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "zeno-collection": {
+      "type": "zeno-collection",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "main",
+    "zeno-collection"
+  ]
+}
