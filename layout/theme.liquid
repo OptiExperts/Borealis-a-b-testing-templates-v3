@@ -467,11 +467,11 @@
   {% render 'mobile-search' %}
 
   {% render 'structured-data' %}
-  <script type="lazyload2" data-src="{{ 'xo-insertcode.js' | asset_url }}" defer="defer"></script>
+  <script src="{{ 'xo-insertcode.js' | asset_url }}" defer="defer"></script>
          <!-- Klaviyo add to cart Script start -->
     {% if product %}
       <!-- Snippet 1,2, or 3, we use Snippet 1 -->
-      <script type="lazyload2">
+      <script>
         
 var _learnq = _learnq || [];
 function addedToCart() {
@@ -511,8 +511,8 @@ $(document).ajaxComplete(function(event, request, settings){
     {% endif %}
     <!-- Klaviyo add to cart Script end -->
   {% include 'swymSnippet' %}
-  <script type="lazyload2" data-src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
-   {%- render '__footerhash' -%}
+  <script src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+  
 </body>
 </html>
 {% endcapture %}
