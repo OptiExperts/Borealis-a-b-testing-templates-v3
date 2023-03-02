@@ -54,26 +54,6 @@
         "custom_css": ""
       }
     },
-    "6646c304-5f54-4f16-ba36-bedf0fc98d4b": {
-      "type": "index__featured-collection",
-      "settings": {
-        "title": "Borealis UMI Super Compressor",
-        "collection": "borealis-umi-super-compressor-diver-watch",
-        "products_per": 4,
-        "mobile_products_per_row": "1",
-        "products_limit": 10,
-        "align_height": false,
-        "collection_height": 270,
-        "collection_style": "grid",
-        "width": "wide",
-        "show_gutter": true,
-        "padding_top": 20,
-        "padding_bottom": 20,
-        "animation": "none",
-        "css_class": "",
-        "custom_css": ""
-      }
-    },
     "22a69f94-59de-4715-b2d5-2048661003fa": {
       "type": "index__featured-collection",
       "settings": {
@@ -186,7 +166,6 @@
   "order": [
     "image_with_text_overlay",
     "95629adf-10ab-4f51-b6b0-ea600a603e0b",
-    "6646c304-5f54-4f16-ba36-bedf0fc98d4b",
     "22a69f94-59de-4715-b2d5-2048661003fa",
     "e2b11f83-e9bb-4aa9-a252-ecf394c74041",
     "bce7816d-8a94-425c-9b3c-50b026d53fb2"
