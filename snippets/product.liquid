@@ -319,6 +319,7 @@
           {% endif %}
 
         {%- elsif block.type == 'rating' -%}
+        {% render 'judgeme_widgets', widget_type: 'judgeme_review_widget', concierge_install: true, product: product %}
           {% if product.metafields.reviews.rating.value != blank %}
             <div class="product__rating rating">
               {%
