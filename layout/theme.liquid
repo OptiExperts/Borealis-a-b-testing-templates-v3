@@ -445,10 +445,9 @@
         
 <!--  Klaviyo add to cart Script start -->
     {% if product %}
-      <!-- Snippet 1,2, or 3, we use Snippet 1 -->
-      <script>
-        
-var _learnq = _learnq || [];
+    <script>
+window.addEventListener('load', function() {
+var _learnq = window._learnq || [];
 function addedToCart() {
   fetch(`${window.location.origin}/cart.js`)
   .then(res => res.clone().json().then(data => {
@@ -462,27 +461,36 @@ function addedToCart() {
     if (item !== 'undefined') {
       cart = Object.assign(cart, item)
     }
-    _learnq.push(['track', 'Added to Cart', cart])
+    if (klAjax) {
+        _learnq.push(['track', 'Added to Cart', cart]);
+        klAjax = false;
+      }
   }))
-} 
+};
 (function (ns, fetch) {
   ns.fetch = function() {
     const response = fetch.apply(this, arguments);
     response.then(res => {
       if (`${window.location.origin}/cart/add.js`
-      	.includes(res.url)) {
-        	addedToCart()
+      .includes(res.url)) {
+        addedToCart()
       }
     });
     return response
   }
-}(window, window.fetch))
-$(document).ajaxComplete(function(event, request, settings){
-  if(settings.url == "/cart/add.js"){
-      addedToCart()
-  }
-})
-      </script>
+}(window, window.fetch));
+var klAjax = true;
+var atcButtons = document.querySelectorAll("form[action*='/cart/add'] button[type='submit']");
+for (var i = 0; i < atcButtons.length; i++) {
+    atcButtons[i].addEventListener("click", function() {
+      if (klAjax) {
+        _learnq.push(['track', 'Added to Cart', item]);
+        klAjax = false;
+      }
+    })
+}
+});
+</script>
     {% endif %}
   
 <!--  Klaviyo add to cart Script end -->
