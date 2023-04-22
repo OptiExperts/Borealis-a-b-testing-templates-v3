@@ -259,7 +259,7 @@
     {% include 'loyaltylion' %}
 
 <meta name="google-site-verification" content="y_7--bac_bqj0jlCcBO6on7-vIjCM6HdRxfWq8NgF5o" />
-      
+      {% render 'judgeme_core' %}
 </head>
 
 {%- capture money_format_output -%}
@@ -442,8 +442,7 @@
 
   {% render 'structured-data' %}
   <script src="{{ 'xo-insertcode.js' | asset_url }}" defer="defer"></script>
-        
-<!--  Klaviyo add to cart Script start -->
+         <!-- Klaviyo add to cart Script start -->
     {% if product %}
       <!-- Snippet 1,2, or 3, we use Snippet 1 -->
       <script>
@@ -484,12 +483,7 @@ $(document).ajaxComplete(function(event, request, settings){
 })
       </script>
     {% endif %}
-  
-<!--  Klaviyo add to cart Script end -->
-
-    
-        
-  
+    <!-- Klaviyo add to cart Script end -->
   {% include 'swymSnippet' %}
   <script src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
   
