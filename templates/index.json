@@ -161,6 +161,26 @@
         "css_class": "",
         "custom_css": ""
       }
+    },
+    "c6b554ce-9d49-4294-bf86-3f8cb2ba48d9": {
+      "type": "index__featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "borealis-estoril-300-gmt",
+        "products_per": 3,
+        "mobile_products_per_row": "1",
+        "products_limit": 17,
+        "align_height": true,
+        "collection_height": 180,
+        "collection_style": "grid",
+        "width": "wide",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
     }
   },
   "order": [
@@ -168,6 +188,7 @@
     "95629adf-10ab-4f51-b6b0-ea600a603e0b",
     "22a69f94-59de-4715-b2d5-2048661003fa",
     "e2b11f83-e9bb-4aa9-a252-ecf394c74041",
-    "bce7816d-8a94-425c-9b3c-50b026d53fb2"
+    "bce7816d-8a94-425c-9b3c-50b026d53fb2",
+    "c6b554ce-9d49-4294-bf86-3f8cb2ba48d9"
   ]
 }
