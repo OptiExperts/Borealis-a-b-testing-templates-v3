@@ -42,24 +42,7 @@
         {{ 'product-1' | placeholder_svg_tag: 'placeholder-svg placeholder-svg--product' }}
       </div>
     {% else %}
-      
-
-                        {% comment %}magictoolbox code begins{% endcomment %}
-                        {% assign Magic360ImageCount = 36 %}
-                        {% assign disable360 = false %}
-                        {% for tag in product.tags %}
-                            {% if tag == 'no360' %}
-                                {% assign disable360 = true %}
-                            {% endif %}
-                            {% assign tag_ = tag | replace: 'spinimages=', '' %}
-                            {% if tag_ != tag %}
-                                {% assign Magic360ImageCount = tag_  | times: 1 %}
-                            {% endif %}
-                        {% endfor %}
-                        {% capture m360 %}{% render 'magic360' %}{% endcapture %}
-                        {% if m360 contains 'Liquid error' or product.images.size < Magic360ImageCount or disable360 %}
-                            {% comment %}magictoolbox replace code begins{% endcomment %}
-                            {%
+      {%
         render 'product__images',
         product: product,
         display_thumbnails: display_thumbnails,
@@ -73,27 +56,6 @@
         enable_product_lightbox: enable_product_lightbox,
         enable_zoom: enable_zoom
       %}
-                            {% comment %}magictoolbox replace code ends{% endcomment %}
-                        {% else %}
-                            <div  style="display:none">{%
-        render 'product__images',
-        product: product,
-        display_thumbnails: display_thumbnails,
-        thumbnail_position: thumbnail_position,
-        enable_thumbnail_slider: enable_thumbnail_slider,
-        product_height: product_height,
-        set_product_height: set_product_height,
-        video_looping: video_looping
-        gallery_arrows: gallery_arrows,
-        slideshow_transition: slideshow_transition,
-        enable_product_lightbox: enable_product_lightbox,
-        enable_zoom: enable_zoom
-      %}</div>
-                            {{ m360 }}
-                        {% endif %}
-                        {% comment %}magictoolbox code ends{% endcomment %}
-
-                    
     {% endif %}
   </div>
 
