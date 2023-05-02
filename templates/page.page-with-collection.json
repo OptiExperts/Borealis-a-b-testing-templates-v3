@@ -3,10 +3,70 @@
     "main": {
       "type": "page-content__main",
       "settings": {
+        "show_heading": true,
+        "heading_alignment": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "736bb47c-2023-4c87-96a2-e0e87c65609c": {
+      "type": "index__collection-list",
+      "blocks": {
+        "template--18889330884955__736bb47c-2023-4c87-96a2-e0e87c65609c-1683044215de2dc604-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "best-selling-collection",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "template--18889330884955__736bb47c-2023-4c87-96a2-e0e87c65609c-1683044215de2dc604-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "diver-watches",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "template--18889330884955__736bb47c-2023-4c87-96a2-e0e87c65609c-1683044215de2dc604-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "microbrand-watch-collection",
+            "title": "",
+            "button_label": "View products"
+          }
+        }
+      },
+      "block_order": [
+        "template--18889330884955__736bb47c-2023-4c87-96a2-e0e87c65609c-1683044215de2dc604-0",
+        "template--18889330884955__736bb47c-2023-4c87-96a2-e0e87c65609c-1683044215de2dc604-1",
+        "template--18889330884955__736bb47c-2023-4c87-96a2-e0e87c65609c-1683044215de2dc604-2"
+      ],
+      "settings": {
+        "collections_per_row": 3,
+        "align_height": false,
+        "collection_height": 400,
+        "enable_zoom": true,
+        "button_style": "button--secondary",
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 70,
+        "overlay_text": "#FFFFFF",
+        "collection_title_below_image": false,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "736bb47c-2023-4c87-96a2-e0e87c65609c"
   ]
 }
