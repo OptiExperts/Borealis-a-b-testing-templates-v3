@@ -145,7 +145,7 @@
     {{ "customer_area.js"  | shopify_asset_url | script_tag }}
   {% endif %}
 <!-- GSSTART Coming Soon code start. Do not change -->
-<script type="text/javascript"> gsProductByVariant = {}; {% if product.id > 1 %}{% for variant in product.variants %} gsProductByVariant[{{variant.id}}] = {% if variant.available %} 1 {% else %} 0 {% endif %}; {% endfor %}{% endif %}  gsProductCSID = "{{ product.id }}"; gsDefaultV = "{{ product.selected_or_first_available_variant.id }}"; </script><script  type="text/javascript" src="https://gravity-software.com/js/shopify/pac_shop38185.js?v=86e15878039a8de7a6b7cf7da35b36bb"></script>
+<script type="text/javascript"> gsProductByVariant = {}; {% if product.id > 1 %}{% for variant in product.variants %} gsProductByVariant[{{variant.id}}] = {% if variant.available %} 1 {% else %} 0 {% endif %}; {% endfor %}{% endif %}  gsProductCSID = "{{ product.id }}"; gsDefaultV = "{{ product.selected_or_first_available_variant.id }}"; </script><script  type="text/javascript" src="https://gravity-software.com/js/shopify/pac_shop38185.js?v=8a1582f565580612243adc65007d20fb"></script>
 <!-- Coming Soon code end. Do not change GSEND --></head>
 
 {%- capture money_format_output -%}
