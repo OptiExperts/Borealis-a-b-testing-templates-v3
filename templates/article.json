@@ -45,7 +45,7 @@
         "template--15702143434908__ab4e6cf7-9707-4838-a532-d2dc03833a45-16849615808b83d33a-1": {
           "type": "collection",
           "settings": {
-            "feature_collection": "",
+            "feature_collection": "microbrand-watch-collection",
             "title": "",
             "button_label": "View products"
           }
