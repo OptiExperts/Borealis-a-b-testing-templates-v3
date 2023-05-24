@@ -1,1 +1,92 @@
-{"sections":{"banner":{"type":"fallback_image_banner","settings":{}},"main":{"type":"article__main","settings":{}}},"order":["banner","main"]}
+{
+  "sections": {
+    "banner": {
+      "type": "fallback_image_banner",
+      "settings": {
+        "image_darken": true,
+        "width": "wide",
+        "banner_height": "medium",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "main": {
+      "type": "article__main",
+      "settings": {
+        "show_breadcrumb": true,
+        "blog_author": true,
+        "blog_date": true,
+        "read_time": true,
+        "blog_comment_count": true,
+        "show_tags": false,
+        "show_featured_image": false,
+        "show_sidebar": false,
+        "sidebar_position": "left",
+        "width": "standard",
+        "padding_top": 40,
+        "padding_bottom": 40,
+        "css_class": "",
+        "custom_css": ""
+      }
+    },
+    "ab4e6cf7-9707-4838-a532-d2dc03833a45": {
+      "type": "index__collection-list",
+      "blocks": {
+        "template--15702143434908__ab4e6cf7-9707-4838-a532-d2dc03833a45-16849615808b83d33a-0": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "diver-watches",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "template--15702143434908__ab4e6cf7-9707-4838-a532-d2dc03833a45-16849615808b83d33a-1": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        },
+        "template--15702143434908__ab4e6cf7-9707-4838-a532-d2dc03833a45-16849615808b83d33a-2": {
+          "type": "collection",
+          "settings": {
+            "feature_collection": "",
+            "title": "",
+            "button_label": "View products"
+          }
+        }
+      },
+      "block_order": [
+        "template--15702143434908__ab4e6cf7-9707-4838-a532-d2dc03833a45-16849615808b83d33a-0",
+        "template--15702143434908__ab4e6cf7-9707-4838-a532-d2dc03833a45-16849615808b83d33a-1",
+        "template--15702143434908__ab4e6cf7-9707-4838-a532-d2dc03833a45-16849615808b83d33a-2"
+      ],
+      "settings": {
+        "collections_per_row": 3,
+        "align_height": false,
+        "collection_height": 400,
+        "enable_zoom": true,
+        "button_style": "button--secondary",
+        "overlay_background": "#939393",
+        "overlay_background_opacity": 70,
+        "overlay_text": "#FFFFFF",
+        "collection_title_below_image": false,
+        "width": "standard",
+        "show_gutter": true,
+        "padding_top": 20,
+        "padding_bottom": 20,
+        "animation": "none",
+        "css_class": "",
+        "custom_css": ""
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "main",
+    "ab4e6cf7-9707-4838-a532-d2dc03833a45"
+  ]
+}
