@@ -14,14 +14,20 @@
     },
     "main": {
       "type": "article__main",
+      "custom_css": [
+        "a:link {color: blue;}",
+        "a:visited {color: darkblue;}",
+        "a:hover {color: lightblue;}",
+        "a:active {color: royalblue;}"
+      ],
       "settings": {
         "show_breadcrumb": true,
-        "blog_author": true,
+        "blog_author": false,
         "blog_date": true,
         "read_time": true,
         "blog_comment_count": true,
-        "show_tags": false,
-        "show_featured_image": false,
+        "show_tags": true,
+        "show_featured_image": true,
         "show_sidebar": false,
         "sidebar_position": "left",
         "width": "standard",
@@ -72,7 +78,7 @@
         "button_style": "button--secondary",
         "overlay_background": "#939393",
         "overlay_background_opacity": 70,
-        "overlay_text": "#FFFFFF",
+        "overlay_text": "#ffffff",
         "collection_title_below_image": false,
         "width": "standard",
         "show_gutter": true,
