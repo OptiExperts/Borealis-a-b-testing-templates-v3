@@ -34,7 +34,7 @@
         "padding_top": 40,
         "padding_bottom": 40,
         "css_class": "",
-        "custom_css": ""
+        "custom_css": "a:link {\n  color: blue;\n}\na:visited {\n  color: darkblue;\n}\na:hover {\n  color: lightblue;\n}\na:active {\n  color: royalblue;\n}"
       }
     },
     "ab4e6cf7-9707-4838-a532-d2dc03833a45": {
