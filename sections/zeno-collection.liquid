@@ -5,9 +5,7 @@
             {% assign collectionKey = 'zeno-collection-' | append: section.settings.spId %}
           {% endif %}
           <link rel="stylesheet" href="{{ collectionKey | append: '.css' | asset_url }}">
-          {% assign oriCollection = collection %} 
           {% include collectionKey %}
-          {% assign collection = oriCollection %}
           <script src="{{ collectionKey | append: '.js' | asset_url }}"></script>
         </div>
 

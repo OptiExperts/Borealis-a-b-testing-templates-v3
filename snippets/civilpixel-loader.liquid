@@ -24,6 +24,31 @@ $ShopVariables.currency = {{ shop.currency | json }};
 $ShopVariables.email = {{ customer.email | json }};
 
 
-(function(w,d,s,v){var f=d.getElementsByTagName(s)[0],j=d.createElement(s);
-    j.async=true;j.src='https://tags.rvere.com/tags/tagmanager.borealis-watch-company.myshopify.com.js?v='+v;f.parentNode.insertBefore(j,f);
-})(window,document,'script','7')
+
+function load () {
+    (function(w,d,s,v){var f=d.getElementsByTagName(s)[0],j=d.createElement(s);
+        j.async=true;j.src='https://tags.rvere.com/tags/tagmanager.borealis-watch-company.myshopify.com.js?v='+v;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','7')    
+}
+
+window.addEventListener("load", function () {
+    window.Shopify && window.Shopify.loadFeatures && window.Shopify.loadFeatures(
+        [
+        {
+            name: 'consent-tracking-api',
+            version: '0.1',
+        },
+        ]
+    );
+
+    var trackingAllowed = !window.Shopify.customerPrivacy || window.Shopify.customerPrivacy.userCanBeTracked();
+
+    if (!trackingAllowed) {
+        document.addEventListener('trackingConsentAccepted', function() {
+            load();
+        });
+    } else {
+        load();
+    }    
+  }
+);
